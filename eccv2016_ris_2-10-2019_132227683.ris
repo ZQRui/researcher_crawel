@@ -1,0 +1,887 @@
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Fast face sketch synthesis via KD-Tree search
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Zhang, Yuqian
+A1  - Wang, Nannan
+A1  - Zhang, Shengchuan
+A1  - Li, Jie
+A1  - Gao, Xinbo
+AD  - State Key Laboratory of Integrated Services Networks, Xidian University, Xian, China
+VL  - 9913 LNCS
+PY  - 2016
+U1  - 20164102884729
+SP  - 64
+EP  - 77
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Automatic face sketch synthesis has been widely applied in digital entertainment and law enforcement. Currently, most sketch synthesis algorithms focus on generating face portrait of good quality, but ignoring the time consumption. Existing methods have large time complexity due to dense computation of patch matching in the neighbor selection process. In this paper, we propose a simple yet effective fast face sketch synthesis method based on K dimensional-Tree (KD-Tree). The proposed method employs the idea of divide-and-conquer (i.e. piece-wise linear) to learn the complex nonlinear mapping between facial photos and sketches. In the training phase, all the training images are divided into regions and every region is divided into some small patches, then KD-Tree is built up among training photo patches in each region. In the test phase, the test photo is first divided into some patches as the same way in the training phase. KD-Tree search is conducted for K nearest neighbor selection by matching the test photo patches in each region against the constructed KD-Tree of training photo patches in the same region. The KD-Tree process builds index structure which greatly reduces the time consumption for neighbor selection. Compared with synthesis methods using classical greedy search strategy (i.e. KNN), the proposed method is much less time consuming but with comparable synthesis performance. Experiments on the public CUHK face sketch (CUFS) database illustrate the effectiveness of the proposed method. In addition, the proposed neighbor selection strategy can be further extended to other synthesis algorithms.  Springer International Publishing Switzerland 2016.
+KW  - Nearest neighbor search
+KW  - Computer vision
+U2  - Digital entertainment
+U2  - Face sketch synthesis
+U2  - K-d tree
+U2  - K-nearest neighbors
+U2  - Local search
+U2  - Neighbor selection
+U2  - Neighbor-Selection Strategy
+U2  - Synthesis algorithms
+DO  - 10.1007/978-3-319-46604-0_5
+L2  - http://dx.doi.org/10.1007/978-3-319-46604-0_5
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - The thermal infrared visual object tracking VOT-TIR2016 challenge results
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Felsberg, Michael
+A1  - Kristan, Matej
+A1  - Matas, Jii
+A1  - Leonardis, Ale
+A1  - Pflugfelder, Roman
+A1  - Hager, Gustav
+A1  - Berg, Amanda
+A1  - Eldesokey, Abdelrahman
+A1  - Ahlberg, Jorgen
+A1  - ehovin, Luka
+A1  - Vojir, Toma
+A1  - Lukei, Alan
+A1  - Fernandez, Gustavo
+A1  - Petrosino, Alfredo
+A1  - Martin, Alvaro Garcia
+A1  - Montero, Andres Solis
+A1  - Varfolomieiev, Anton
+A1  - Erdem, Aykut
+A1  - Han, Bohyung
+A1  - Chang, Chang-Ming
+A1  - Du, Dawei
+A1  - Erdem, Erkut
+A1  - Khan, Fahad Shahbaz
+A1  - Porikli, Fatih
+A1  - Zhao, Fei
+A1  - Bunyak, Filiz
+A1  - Battistone, Francesco
+A1  - Zhu, Gao
+A1  - Seetharaman, Guna
+A1  - Li, Hongdong
+A1  - Qi, Honggang
+A1  - Bischof, Horst
+A1  - Possegger, Horst
+A1  - Nam, Hyeonseob
+A1  - Valmadre, Jack
+A1  - Zhu, Jianke
+A1  - Feng, Jiayi
+A1  - Lang, Jochen
+A1  - Martinez, Jose M.
+A1  - Palaniappan, Kannappan
+A1  - Lebeda, Karel
+A1  - Gao, Ke
+A1  - Mikolajczyk, Krystian
+A1  - Wen, Longyin
+A1  - Bertinetto, Luca
+A1  - Poostchi, Mahdieh
+A1  - Maresca, Mario
+A1  - Danelljan, Martin
+A1  - Arens, Michael
+A1  - Tang, Ming
+A1  - Baek, Mooyeol
+A1  - Fan, Nana
+A1  - Shakarji, Noor Al
+A1  - Miksik, Ondrej
+A1  - Akin, Osman
+A1  - Torr, Philip H.S.
+A1  - Huang, Qingming
+A1  - Martin-Nieto, Rafael
+A1  - Pelapur, Rengarajan
+A1  - Bowden, Richard
+A1  - Laganiere, Robert
+A1  - Krah, Sebastian B.
+A1  - Li, Shengkun
+A1  - Yao, Shizeng
+A1  - Hadfield, Simon
+A1  - Lyu, Siwei
+A1  - Becker, Stefan
+A1  - Golodetz, Stuart
+A1  - Hu, Tao
+A1  - Mauthner, Thomas
+A1  - Santopietro, Vincenzo
+A1  - Li, Wenbo
+A1  - Hubner, Wolfgang
+A1  - Li, Xin
+A1  - Li, Yang
+A1  - Xu, Zhan
+A1  - He, Zhenyu
+AD  - Linkoping University, Linkoping, SwedenUniversity of Ljubljana, Ljubljana, SloveniaCzech Technical University, Prague, Czech RepublicUniversity of Birmingham, Birmingham, United KingdomAustrian Institute of Technology, Seibersdorf, AustriaTermisk Systemteknik AB, Linkoping, SwedenARC Centre of Excellence for Robotic Vision, Canberra, AustraliaAustralian National University, Canberra, AustraliaChinese Academy of Sciences, Beijing, ChinaFraunhofer IOSB, Karlsruhe, GermanyGraz University of Technology, Graz, AustriaHacettepe University, Ankara, TurkeyHarbin Institute of Technology, Harbin, ChinaImperial College London, London, United KingdomKyiv Polytechnic Institute, Kiev, UkraineLehigh University, Bethlehem, United StatesNaval Research Lab, Washington; DC, United StatesNAVER Corp, Seongnam, Korea, Republic ofData61/CSIRO, Alexandria, AustraliaParthenope University of Naples, Naples, ItalyPOSTECH, Pohang, Korea, Republic ofUniversidad Autonoma de Madrid, Madrid, SpainUniversity at Albany, Albany, United StatesUniversity of Missouri, Columbia, United StatesUniversity of Ottawa, Ottawa, CanadaUniversity of Oxford, Oxford, United KingdomUniversity of Surrey, Guildford, United KingdomZhejiang University, Hangzhou, China
+VL  - 9914 LNCS
+PY  - 2016
+U1  - 20164803064444
+SP  - 824
+EP  - 849
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - The Thermal Infrared Visual Object Tracking challenge 2016, VOT-TIR2016, aims at comparing short-term single-object visual trackers that work on thermal infrared (TIR) sequences and do not apply pre-learned models of object appearance. VOT-TIR2016 is the second benchmark on short-term tracking in TIR sequences. Results of 24 trackers are presented. For each participating tracker, a short description is provided in the appendix. The VOT-TIR2016 challenge is similar to the 2015 challenge, the main difference is the introduction of new, more difficult sequences into the dataset. Furthermore, VOT-TIR2016 evaluation adopted the improvements regarding overlap calculation in VOT2016. Compared to VOT-TIR2015, a significant general improvement of results has been observed, which partly compensate for the more difficult sequences. The dataset, the evaluation kit, as well as the results are publicly available at the challenge website.  Springer International Publishing Switzerland 2016.
+KW  - Tracking (position)
+KW  - Computer vision
+KW  - Infrared radiation
+U2  - Difficult sequence
+U2  - Object appearance
+U2  - Object Tracking
+U2  - Performance evaluations
+U2  - Single object
+U2  - Thermal infrared
+U2  - Thermal IR
+U2  - Visual object tracking
+DO  - 10.1007/978-3-319-48881-3_55
+L2  - http://dx.doi.org/10.1007/978-3-319-48881-3_55
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Robust text detection with vertically-regressed proposal network
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Xiang, Donglai
+A1  - Guo, Qiang
+A1  - Xia, Yan
+AD  - Tsinghua University, Beijing, ChinaNational University of Defense Technology, Changsha, ChinaSenseTime Group Limited, Beijing, China
+VL  - 9913 LNCS
+PY  - 2016
+U1  - 20164102884703
+SP  - 351
+EP  - 363
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Methods for general object detection, such as R-CNN [4] and Fast R-CNN [3], have been successfully applied to text detection, as in [7]. However, there exists difficulty when directly using RPN [10], which is a leading object detection method, for text detection. This is due to the difference between text and general objects. On one hand, text regions have variable lengths, and thus networks must be designed to have large receptive field sizes. On the other hand, positive text regions cannot be measured in the same way as that for general objects at training. In this paper, we introduce a novel vertically-regressed proposal network (VRPN), which allows text regions to be matched by multiple neighboring small anchors. Meanwhile, training regions are selected according to how much they overlap with ground-truth boxes vertically and the location of positive regions is regressed only in the vertical direction. Experiments on dataset provided by ICDAR 2015 Challenge 1 demonstrate the effectiveness of our methods.  Springer International Publishing Switzerland 2016.
+KW  - Object detection
+KW  - Computer vision
+KW  - Object recognition
+U2  - Ground truth
+U2  - Object detection method
+U2  - Positive region
+U2  - Receptive field sizes
+U2  - Text detection
+U2  - Variable length
+U2  - Vertical direction
+U2  - Vertical regression
+DO  - 10.1007/978-3-319-46604-0_26
+L2  - http://dx.doi.org/10.1007/978-3-319-46604-0_26
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - VLAD is not necessary for CNN
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Yu, Dan
+A1  - Wu, Xiao-Jun
+AD  - School of IoT Engineering, Jiangnan University, 1800 Lihu Avenue, Wuxi, China
+VL  - 9915 LNCS
+PY  - 2016
+U1  - 20165103138945
+SP  - 492
+EP  - 499
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Global convolutional neural networks (CNNs) activations lack geometric invariance, and in order to address this problem, Gong et al. proposed multi-scale orderless pooling(MOP-CNN), which extracts CNN activations for local patches at multiple scale levels, and performs orderless VLAD pooling to extract features. However, we find that this method can improve the performance mainly because it extracts global and local representation simultaneously, and VLAD pooling is not necessary as the representations extracted by CNN is good enough for classification. In this paper, we propose a new method to extract multi-scale features of CNNs, leading to a new structure of deep learning. The method extracts CNN representations for local patches at multiple scale levels, then concatenates all the representations at each level separately, finally, concatenates the results of all levels. The CNN is trained on the ImageNet dataset to extract features and it is then transferred to other datasets. The experimental results obtained on the databases MITIndoor and Caltech-101 show that the performance of our proposed method is superior to the MOP-CNN.  Springer International Publishing Switzerland 2016.
+KW  - Deep learning
+KW  - Chemical activation
+KW  - Computer vision
+KW  - Neural networks
+U2  - Caltech
+U2  - Convolutional neural network
+U2  - Geometric invariance
+U2  - Multi-scale
+U2  - Multi-scale features
+U2  - Multiple scale
+U2  - Transfer learning
+U2  - VLAD
+DO  - 10.1007/978-3-319-49409-8_41
+L2  - http://dx.doi.org/10.1007/978-3-319-49409-8_41
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Preface
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 8, 2016  -  October 16, 2016
+JO  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Jegou, Herve
+A1  - Hua, Gang
+AD  - Facebook AI Research (FAIR), Menlo Park, United StatesMicrosoft Research Asia, Beijing, China
+VL  - 9915 LNCS
+PY  - 2016
+U1  - 20165103138909
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - POI: Multiple object tracking with high performance detection and appearance feature
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Yu, Fengwei
+A1  - Li, Wenbo
+A1  - Li, Quanquan
+A1  - Liu, Yu
+A1  - Shi, Xiaohua
+A1  - Yan, Junjie
+AD  - Beihang University, Beijing, ChinaUniversity at Albany, SUNY, Albany, United StatesSensetime Group Limited, Beijing, China
+VL  - 9914 LNCS
+PY  - 2016
+U1  - 20164803064488
+SP  - 36
+EP  - 42
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Detection and learning based appearance feature play the central role in data association based multiple object tracking (MOT), but most recent MOT works usually ignore them and only focus on the hand-crafted feature and association algorithms. In this paper, we explore the high-performance detection and deep learning based appearance feature, and show that they lead to significantly better MOT results in both online and offline setting. We make our detection and appearance feature publicly available (https://drive.google.com/open? id=0B5ACiy41McAHMjczS2p0dFg3emM). In the following part, we first summarize the detection and appearance feature, and then introduce our tracker named Person of Interest (POI), which has both online and offline version (We use POI to denote our online tracker and KDNT to denote our offline tracker in submission.).  Springer International Publishing Switzerland 2016.
+KW  - Feature extraction
+KW  - Chemical detection
+KW  - Computer vision
+KW  - Deep learning
+KW  - Object detection
+KW  - Tracking (position)
+U2  - Association algorithms
+U2  - Data association
+U2  - Multiple object tracking
+U2  - Offline
+U2  - Performance detections
+DO  - 10.1007/978-3-319-48881-3_3
+L2  - http://dx.doi.org/10.1007/978-3-319-48881-3_3
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Online heterogeneous transfer learning by weighted offline and online classifiers
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Yan, Yuguang
+A1  - Wu, Qingyao
+A1  - Tan, Mingkui
+A1  - Min, Huaqing
+AD  - School of Software Engineering, South China University of Technology, Guangzhou, China
+VL  - 9915 LNCS
+PY  - 2016
+U1  - 20165103138941
+SP  - 467
+EP  - 474
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - In this paper, we study online heterogeneous transfer learning (HTL) problems where offline labeled data from a source domain is transferred to enhance the online classification performance in a target domain. The main idea of our proposed algorithm is to build an offline classifier based on heterogeneous similarity constructed by using labeled data from a source domain and unlabeled co-occurrence data which can be easily collected from web pages and social networks.We also construct an online classifier based on data from a target domain, and combine the offline and online classifiers by using the Hedge weighting strategy to update their weights for ensemble prediction. The theoretical analysis of error bound of the proposed algorithm is provided. Experiments on a real-world data set demonstrate the effectiveness of the proposed algorithm.  Springer International Publishing Switzerland 2016.
+KW  - E-learning
+KW  - Computer vision
+KW  - Websites
+U2  - Co-occurrence
+U2  - Ensemble prediction
+U2  - Labeled data
+U2  - On-line classification
+U2  - On-line classifier
+U2  - Target domain
+U2  - Transfer learning
+U2  - Weighting strategies
+DO  - 10.1007/978-3-319-49409-8_38
+L2  - http://dx.doi.org/10.1007/978-3-319-49409-8_38
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Deep kinematic pose regression
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Zhou, Xingyi
+A1  - Sun, Xiao
+A1  - Zhang, Wei
+A1  - Liang, Shuang
+A1  - Wei, Yichen
+AD  - Shanghai Key Laboratory of Intelligent Information Processing, School of Computer Science, Fudan University, Shanghai, ChinaMicrosoft Research, Beijing, ChinaTongji University, Shanghai, China
+VL  - 9915 LNCS
+PY  - 2016
+U1  - 20165103138918
+SP  - 186
+EP  - 201
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Learning articulated object pose is inherently difficult because the pose is high dimensional but has many structural constraints. Most existing work do not model such constraints and does not guarantee the geometric validity of their pose estimation, therefore requiring a post-processing to recover the correct geometry if desired, which is cumbersome and sub-optimal. In this work, we propose to directly embed a kinematic object model into the deep neutral network learning for general articulated object pose estimation. The kinematic function is defined on the appropriately parameterized object motion variables. It is differentiable and can be used in the gradient descent based optimization in network training. The prior knowledge on the object geometric model is fully exploited and the structure is guaranteed to be valid. We show convincing experiment results on a toy example and the 3D human pose estimation problem. For the latter we achieve state-of-the-art result on Human3.6M dataset.  Springer International Publishing Switzerland 2016.
+KW  - Deep learning
+KW  - Computer vision
+KW  - Geometry
+KW  - Kinematics
+KW  - Optimization
+U2  - 3D human pose estimation
+U2  - Articulated object
+U2  - Gradient descent
+U2  - Human pose estimations
+U2  - Kinematic model
+U2  - Object geometric modeling
+U2  - State of the art
+U2  - Structural constraints
+DO  - 10.1007/978-3-319-49409-8_17
+L2  - http://dx.doi.org/10.1007/978-3-319-49409-8_17
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Scene text detection with adaptive line clustering
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Qiao, Xinxu
+A1  - Zhu, He
+A1  - Li, Weiping
+AD  - Department of Electronic Engineering and Information Science, University of Science and Technology of China, Hefei, China
+VL  - 9913 LNCS
+PY  - 2016
+U1  - 20164102884704
+SP  - 364
+EP  - 377
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - We propose a scene text detection system which can maintain a high recall while achieving a fair precision. In our method, no character candidate is eliminated based on character-level features. A weighted directed graph is constructed and the minimum average cost path algorithm is adopted to extract line candidates. After assigning three line-level probability values to each line, the final decisions are made according to the line candidate clustering of the current image. The proposed system has been evaluated on the ICDAR 2013 dataset. Compared with other published methods, it has achieved better performances.  Springer International Publishing Switzerland 2016.
+KW  - Directed graphs
+KW  - Computer vision
+KW  - Costs
+KW  - Graph theory
+U2  - Average cost
+U2  - Character level
+U2  - Current image
+U2  - Extract line
+U2  - Final decision
+U2  - Line candidate clustering
+U2  - Line-level features
+U2  - Weighted directed graph
+DO  - 10.1007/978-3-319-46604-0_27
+L2  - http://dx.doi.org/10.1007/978-3-319-46604-0_27
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Deep bimodal regression for apparent personality analysis
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Zhang, Chen-Lin
+A1  - Zhang, Hao
+A1  - Wei, Xiu-Shen
+A1  - Wu, Jianxin
+AD  - National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China
+VL  - 9915 LNCS
+PY  - 2016
+U1  - 20165103138927
+SP  - 311
+EP  - 324
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Apparent personality analysis from short video sequences is a challenging problem in computer vision and multimedia research. In order to capture rich information from both the visual and audio modality of videos, we propose the Deep Bimodal Regression (DBR) framework. In DBR, for the visual modality, we modify the traditional convolutional neural networks for exploiting important visual cues. In addition, taking into account the model efficiency, we extract audio representations and build the linear regressor for the audio modality. For combining the complementary information from the two modalities, we ensemble these predicted regression scores by both early fusion and late fusion. Finally, based on the proposed framework, we come up with a solution for the Apparent Personality Analysis competition track in the ChaLearn Looking at People challenge in association with ECCV 2016. Our DBR is the winner (first place) of this challenge with 86 registered teams.  Springer International Publishing Switzerland 2016.
+KW  - Deep learning
+KW  - Computer vision
+KW  - Convolution
+KW  - Neural networks
+KW  - Regression analysis
+KW  - Speech recognition
+U2  - Apparent personality analysis
+U2  - Audio representation
+U2  - Bimodal learning
+U2  - Convolutional neural network
+U2  - Deep regression learning
+U2  - Model efficiency
+U2  - Multimedia research
+U2  - Visual modalities
+DO  - 10.1007/978-3-319-49409-8_25
+L2  - http://dx.doi.org/10.1007/978-3-319-49409-8_25
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - The visual object tracking VOT2016 challenge results
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Kristan, Matej
+A1  - Leonardis, Ale
+A1  - Matas, Jii
+A1  - Felsberg, Michael
+A1  - Pflugfelder, Roman
+A1  - ehovin, Luka
+A1  - Vojir, Toma
+A1  - Hager, Gustav
+A1  - Lukei, Alan
+A1  - Fernandez, Gustavo
+A1  - Gupta, Abhinav
+A1  - Petrosino, Alfredo
+A1  - Memarmoghadam, Alireza
+A1  - Martin, Alvaro Garcia
+A1  - Montero, Andres Solis
+A1  - Vedaldi, Andrea
+A1  - Robinson, Andreas
+A1  - Ma, Andy J.
+A1  - Varfolomieiev, Anton
+A1  - Alatan, Aydin
+A1  - Erdem, Aykut
+A1  - Ghanem, Bernard
+A1  - Liu, Bin
+A1  - Han, Bohyung
+A1  - Martinez, Brais
+A1  - Chang, Chang-Ming
+A1  - Xu, Changsheng
+A1  - Sun, Chong
+A1  - Kim, Daijin
+A1  - Chen, Dapeng
+A1  - Du, Dawei
+A1  - Mishra, Deepak
+A1  - Yeung, Dit-Yan
+A1  - Gundogdu, Erhan
+A1  - Erdem, Erkut
+A1  - Khan, Fahad
+A1  - Porikli, Fatih
+A1  - Zhao, Fei
+A1  - Bunyak, Filiz
+A1  - Battistone, Francesco
+A1  - Zhu, Gao
+A1  - Roffo, Giorgio
+A1  - Sai Subrahmanyam, Gorthi R. K.
+A1  - Bastos, Guilherme
+A1  - Seetharaman, Guna
+A1  - Medeiros, Henry
+A1  - Li, Hongdong
+A1  - Qi, Honggang
+A1  - Bischof, Horst
+A1  - Possegger, Horst
+A1  - Lu, Huchuan
+A1  - Lee, Hyemin
+A1  - Nam, Hyeonseob
+A1  - Chang, Hyung Jin
+A1  - Drummond, Isabela
+A1  - Valmadre, Jack
+A1  - Jeong, Jae-Chan
+A1  - Cho, Jae-Il
+A1  - Lee, Jae-Yeong
+A1  - Zhu, Jianke
+A1  - Feng, Jiayi
+A1  - Gao, Jin
+A1  - Choi, Jin Young
+A1  - Xiao, Jingjing
+A1  - Kim, Ji-Wan
+A1  - Jeong, Jiyeoup
+A1  - Henriques, Joao F.
+A1  - Lang, Jochen
+A1  - Choi, Jongwon
+A1  - Martinez, Jose M.
+A1  - Xing, Junliang
+A1  - Gao, Junyu
+A1  - Palaniappan, Kannappan
+A1  - Lebeda, Karel
+A1  - Gao, Ke
+A1  - Mikolajczyk, Krystian
+A1  - Qin, Lei
+A1  - Wang, Lijun
+A1  - Wen, Longyin
+A1  - Bertinetto, Luca
+A1  - Rapuru, Madan Kumar
+A1  - Poostchi, Mahdieh
+A1  - Maresca, Mario
+A1  - Danelljan, Martin
+A1  - Mueller, Matthias
+A1  - Zhang, Mengdan
+A1  - Arens, Michael
+A1  - Valstar, Michel
+A1  - Tang, Ming
+A1  - Baek, Mooyeol
+A1  - Khan, Muhammad Haris
+A1  - Wang, Naiyan
+A1  - Fan, Nana
+A1  - Al-Shakarji, Noor
+A1  - Miksik, Ondrej
+A1  - Akin, Osman
+A1  - Moallem, Payman
+A1  - Senna, Pedro
+A1  - Torr, Philip H.S.
+A1  - Yuen, Pong C.
+A1  - Huang, Qingming
+A1  - Nieto, Rafael Martin
+A1  - Pelapur, Rengarajan
+A1  - Bowden, Richard
+A1  - Laganiere, Robert
+A1  - Stolkin, Rustam
+A1  - Walsh, Ryan
+A1  - Krah, Sebastian B.
+A1  - Li, Shengkun
+A1  - Zhang, Shengping
+A1  - Yao, Shizeng
+A1  - Hadfield, Simon
+A1  - Melzi, Simone
+A1  - Lyu, Siwei
+A1  - Li, Siyi
+A1  - Becker, Stefan
+A1  - Golodetz, Stuart
+A1  - Kakanuru, Sumithra
+A1  - Choi, Sunglok
+A1  - Hu, Tao
+A1  - Mauthner, Thomas
+A1  - Zhang, Tianzhu
+A1  - Pridmore, Tony
+A1  - Santopietro, Vincenzo
+A1  - Hu, Weiming
+A1  - Li, Wenbo
+A1  - Hubner, Wolfgang
+A1  - Lan, Xiangyuan
+A1  - Wang, Xiaomeng
+A1  - Li, Xin
+A1  - Li, Yang
+A1  - Demiris, Yiannis
+A1  - Wang, Yifan
+A1  - Qi, Yuankai
+A1  - Yuan, Zejian
+A1  - Cai, Zexiong
+A1  - Xu, Zhan
+A1  - He, Zhenyu
+A1  - Chi, Zhizhen
+AD  - University of Ljubljana, Ljubljana, SloveniaUniversity of Birmingham, Birmingham, United KingdomCzech Technical University, Praha, Czech RepublicLinkoping University, Linkoping, SwedenAustrian Institute of Technology, Seibersdorf, AustriaARC Centre of Excellence for Robotic Vision, Brisbane, AustraliaAselsan Research Center, Ankara, TurkeyASRI, Seoul, Korea, Republic ofAustralian National University, Canberra, AustraliaCarnegie Mellon University, Pittsburgh, United StatesChinese Academy of Sciences, Beijing, ChinaDalian University of Technology, Dalian, ChinaElectronics and Telecommunications Research Institute, Seoul, Korea, Republic ofFraunhofer IOSB, Karlsruhe, GermanyGraz University of Technology, Graz, AustriaHacettepe University, Cankaya, TurkeyHarbin Institute of Technology, Harbin, ChinaHong Kong Baptist University, Kowloon Tong, ChinaHong Kong University of Science and Technology, Hong KongImperial College London, London, United KingdomIndian Institute of Space Science and Technology, Thiruvananthapuram, IndiaKAUST, Thuwal, Saudi ArabiaKyiv Polytechnic Institute, Kiev, UkraineLehigh University, Bethlehem, United StatesMarquette University, Milwaukee, United StatesMiddle East Technical University, Cankaya, TurkeyNaval Research Lab, Washington; DC, United StatesNAVER Corporation, Seongnam, Korea, Republic ofData61/CSIRO, Eveleigh, AustraliaParthenope University of Naples, Napoli, ItalyPOSTECH, Pohang, Korea, Republic ofUniversidad Autonoma de Madrid, Madrid, SpainUniversidade Federal de Itajuba, Pinheirinho, BrazilUniversity at Albany, Albany, United StatesUniversity of Chinese Academy of Sciences, Beijing, ChinaUniversity of Isfahan, Isfahan, IranUniversity of Missouri, Columbia, United StatesUniversity of Nottingham, Nottingham, United KingdomUniversity of Ottawa, Ottawa, CanadaUniversity of Oxford, Oxford, United KingdomUniversity of Surrey, Guildford, United KingdomUniversity of Verona, Verona, ItalyXian Jiaotong University, Xian, ChinaZhejiang University, Hangzhou, ChinaMoshanghua Technology Co, Beijing, China
+VL  - 9914 LNCS
+PY  - 2016
+U1  - 20164803064443
+SP  - 777
+EP  - 823
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - The Visual Object Tracking challenge VOT2016 aims at comparing short-term single-object visual trackers that do not apply pre-learned models of object appearance. Results of 70 trackers are presented, with a large number of trackers being published at major computer vision conferences and journals in the recent years. The number of tested state-of-the-art trackers makes the VOT 2016 the largest and most challenging benchmark on short-term tracking to date. For each participating tracker, a short description is provided in the Appendix. The VOT2016 goes beyond its predecessors by (i) introducing a new semi-automatic ground truth bounding box annotation methodology and (ii) extending the evaluation system with the no-reset experiment. The dataset, the evaluation kit as well as the results are publicly available at the challenge website (http: //votchallenge.net).  Springer International Publishing Switzerland 2016.
+KW  - Computer vision
+KW  - Image segmentation
+KW  - Tracking (position)
+U2  - Evaluation systems
+U2  - Ground truth
+U2  - Object appearance
+U2  - Performance evaluations
+U2  - Semi-automatics
+U2  - Single object
+U2  - State of the art
+U2  - Visual object tracking
+DO  - 10.1007/978-3-319-48881-3_54
+L2  - http://dx.doi.org/10.1007/978-3-319-48881-3_54
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Preface
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 8, 2016  -  October 16, 2016
+JO  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Jegou, Herve
+A1  - Hua, Gang
+AD  - Facebook AI Research (FAIR), Menlo Park; CA, United StatesMicrosoft Research Asia, Beijing, China
+VL  - 9913 LNCS
+PY  - 2016
+U1  - 20164102884684
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Monocular visual-IMU odometry: A comparative evaluation of the detector-descriptor based methods
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Dong, Xingshuai
+A1  - Dong, Xinghui
+A1  - Dong, Junyu
+AD  - Ocean University of China, Qingdao; 266071, ChinaCentre for Imaging Sciences, University of Manchester, Manchester; M13 9PT, United Kingdom
+VL  - 9913 LNCS
+PY  - 2016
+U1  - 20164102884576
+SP  - 81
+EP  - 95
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Visual odometry has been used in many fields, especially in robotics and intelligent vehicles. Since local descriptors are robust to background clutter, occlusion and other content variations, they have been receiving more and more attention in the application of the detector-descriptor based visual odometry. To our knowledge, however, there is no extensive, comparative evaluation investigating the performance of the detector-descriptor based methods in the scenario of monocular visual-IMU (Inertial Measurement Unit) odometry. In this paper, we therefore perform such an evaluation under a unified framework. We select five typical routes from the challenging KITTI dataset by taking into account the length and shape of routes, the impact of independent motions due to other vehicles and pedestrians. In terms of the five routes, we conduct five different experiments in order to assess the performance of different combinations of salient point detector and local descriptor in various road scenes, respectively. The results obtained in this study potentially provide a series of guidelines for the selection of salient point detectors and local descriptors.  Springer International Publishing Switzerland 2016.
+KW  - Computer vision
+KW  - Navigation
+KW  - Robots
+KW  - Vision
+U2  - Background clutter
+U2  - Comparative evaluations
+U2  - Evaluation
+U2  - Independent motions
+U2  - Inertial measurement unit
+U2  - Local descriptors
+U2  - Odometry
+U2  - Salient points
+DO  - 10.1007/978-3-319-46604-0_6
+L2  - http://dx.doi.org/10.1007/978-3-319-46604-0_6
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Instance-level coupled subspace learning for fine-grained sketch-based image retrieval
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Xu, Peng
+A1  - Yin, Qiyue
+A1  - Qi, Yonggang
+A1  - Song, Yi-Zhe
+A1  - Ma, Zhanyu
+A1  - Wang, Liang
+A1  - Guo, Jun
+AD  - Pattern Recognition and Intelligent System Laboratory, Beijing University of Posts and Telecommunications, Beijing, ChinaNational Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, ChinaSketchX Lab, School of Electronic Engineering and Computer Science, Queen Mary University of London, London, United Kingdom
+VL  - 9913 LNCS
+PY  - 2016
+U1  - 20164102884696
+SP  - 19
+EP  - 34
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Fine-grained sketch-based image retrieval (FG-SBIR) is a newly emerged topic in computer vision. The problem is challenging because in addition to bridging the sketch-photo domain gap, it also asks for instance-level discrimination within object categories. Most prior approaches focused on feature engineering and fine-grained ranking, yet neglected an important and central problem: how to establish a finegrained cross-domain feature space to conduct retrieval. In this paper, for the first time we formulate a cross-domain framework specifically designed for the task of FG-SBIR that simultaneously conducts instancelevel retrieval and attribute prediction. Different to conventional phototext cross-domain frameworks that performs transfer on category-level data, our joint multi-view space uniquely learns from the instance-level pair-wise annotations of sketch and photo. More specifically, we propose a joint view selection and attribute subspace learning algorithm to learn domain projection matrices for photo and sketch, respectively. It follows that visual attributes can be extracted from such matrices through projection to build a coupled semantic space to conduct retrieval. Experimental results on two recently released fine-grained photo-sketch datasets show that the proposed method is able to perform at a level close to those of deep models, while removing the need for extensive manual annotations.  Springer International Publishing Switzerland 2016.
+KW  - Image retrieval
+KW  - Computer vision
+KW  - Learning algorithms
+KW  - Semantics
+U2  - Attribute supervision
+U2  - Domain adaptation
+U2  - Feature engineerings
+U2  - Fine grained
+U2  - Manual annotation
+U2  - Object categories
+U2  - Projection matrix
+U2  - Sketch-based image retrievals
+DO  - 10.1007/978-3-319-46604-0_2
+L2  - http://dx.doi.org/10.1007/978-3-319-46604-0_2
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - LCrowdV: Generating labeled videos for simulation-based crowd behavior learning
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Cheung, Ernest
+A1  - Wong, Tsan Kwong
+A1  - Bera, Aniket
+A1  - Wang, Xiaogang
+A1  - Manocha, Dinesh
+AD  - The University of North Carolina at Chapel Hill, Chapel Hill, United StatesThe Chinese University of Hong Kong, Hong Kong
+VL  - 9914 LNCS
+PY  - 2016
+U1  - 20164803064511
+SP  - 709
+EP  - 727
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - We present a novel procedural framework to generate an arbitrary number of labeled crowd videos (LCrowdV). The resulting crowd video datasets are used to design accurate algorithms or training models for crowded scene understanding. Our overall approach is composed of two components: a procedural simulation framework for generating crowd movements and behaviors, and a procedural rendering framework to generate different videos or images. Each video or image is automatically labeled based on the environment, number of pedestrians, density, behavior (agent personality), flow, lighting conditions, viewpoint, noise, etc. Furthermore, we can increase the realism by combining synthetically-generated behaviors with real-world background videos.We demonstrate the benefits of LCrowdV over prior labeled crowd datasets, by augmenting real dataset with it and improving the accuracy in pedestrian detection. LCrowdV has been made available as an online resource.  Springer International Publishing Switzerland 2016.
+KW  - Behavioral research
+KW  - Computer vision
+KW  - Image enhancement
+KW  - Rendering (computer graphics)
+U2  - Crowd analysis
+U2  - Crowd behavior
+U2  - Crowd datasets
+U2  - Crowd Rendering
+U2  - Crowd Simulation
+U2  - Pedestrian detection
+DO  - 10.1007/978-3-319-48881-3_50
+L2  - http://dx.doi.org/10.1007/978-3-319-48881-3_50
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Extracting driving behavior: Global metric localization from dashcam videos in the wild
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Chang, Shao-Pin
+A1  - Chien, Jui-Ting
+A1  - Wang, Fu-En
+A1  - Yang, Shang-Da
+A1  - Chen, Hwann-Tzong
+A1  - Sun, Min
+AD  - Departmant of Electrical Engineering, National Tsing Hua University, Hsinchu, TaiwanDepartmant of Computer Science, National Tsing Hua University, Hsinchu, Taiwan
+VL  - 9913 LNCS
+PY  - 2016
+U1  - 20164102884686
+SP  - 136
+EP  - 148
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Given the advance of portable cameras, many vehicles are equipped with always-on cameras on their dashboards (referred to as dashcam). We aim to utilize these dashcam videos harvested in the wild to extract the driving behaviorglobal metric localization of 3D vehicle trajectories (Fig. 1). We propose a robust approach to (1) extract a relative vehicle 3D trajectory from a dashcam video, (2) create a global metric 3D map using geo-localized Google StreetView RGBD panoramic images, and (3) align the relative vehicle 3D trajectory to the 3D map to achieve global metric localization. We conduct an experiment on 50 dashcam videos captured in 11 cities under various traffic conditions. For each video, we uniformly sample at least 15 control frames per road segment to manually annotate the ground truth 3D locations of the vehicle. On control frames, the extracted 3D locations are compared with these manually labeled ground truths to calculate the distance in meters. Our proposed method achieves an average error of 2.05m and 85.5% of them have error no more than 5 m. Our method significantly outperforms other vision-based baseline methods and is a more accurate alternative method than the most widely used consumer-level Global Positioning System (GPS).  Springer International Publishing Switzerland 2016.
+KW  - Computer vision
+KW  - Behavioral research
+KW  - Cameras
+KW  - Global positioning system
+KW  - Trajectories
+KW  - Vehicles
+U2  - Baseline methods
+U2  - Camera localization
+U2  - Driving behavior
+U2  - Panoramic images
+U2  - Robust approaches
+U2  - Structure from motion
+U2  - Traffic conditions
+U2  - Vehicle trajectories
+DO  - 10.1007/978-3-319-46604-0_10
+L2  - http://dx.doi.org/10.1007/978-3-319-46604-0_10
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Face recognition from multiple stylistic sketches: Scenarios, datasets, and evaluation
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Peng, Chunlei
+A1  - Wang, Nannan
+A1  - Gao, Xinbo
+A1  - Li, Jie
+AD  - State Key Laboratory of Integrated Services Networks, Xidian University, Xian, China
+VL  - 9913 LNCS
+PY  - 2016
+U1  - 20164102884685
+SP  - 3
+EP  - 18
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - Matching a face sketch against mug shots, which plays an important role in law enforcement and security, is an interesting and challenging topic in face recognition community. Although great progress has been made in recent years, main focus is the face recognition based on SINGLE sketch in existing studies. In this paper, we present a fundamental study of face recognition from multiple stylistic sketches. Three specific scenarios with corresponding datasets are carefully introduced to mimic real-world situations: (1) recognition from multiple handdrawn sketches; (2) recognition from hand-drawn sketch and composite sketches; (3) recognition from multiple composite sketches. We further provide the evaluation protocols and several benchmarks on these proposed scenarios. Finally, we discuss the plenty of challenges and possible future directions that worth to be further investigated. All the materials will be publicly available online (Available at http://chunleipeng.com/ FRMSketches.html.) for comparisons and further study of this problem.  Springer International Publishing Switzerland 2016.
+KW  - Face recognition
+KW  - Computer vision
+KW  - Drawing (graphics)
+KW  - Fusion reactions
+U2  - Evaluation protocol
+U2  - Fundamental studies
+U2  - Hand-drawn sketches
+U2  - Mug shot
+U2  - Possible futures
+U2  - Real world situations
+U2  - Viewed sketches
+DO  - 10.1007/978-3-319-46604-0_1
+L2  - http://dx.doi.org/10.1007/978-3-319-46604-0_1
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Unsupervised deep domain adaptation for pedestrian detection
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Liu, Lihang
+A1  - Lin, Weiyao
+A1  - Wu, Lisheng
+A1  - Yu, Yong
+A1  - Yang, Michael Ying
+AD  - Shanghai Jiao Tong University, Shanghai, ChinaITC-EOS, University of Twente, Enschede, Netherlands
+VL  - 9914 LNCS
+PY  - 2016
+U1  - 20164803064508
+SP  - 676
+EP  - 691
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - This paper addresses the problem of unsupervised domain adaptation on the task of pedestrian detection in crowded scenes. First, we utilize an iterative algorithm to iteratively select and auto-annotate positive pedestrian samples with high confidence as the training samples for the target domain. Meanwhile, we also reuse negative samples from the source domain to compensate for the imbalance between the amount of positive samples and negative samples. Second, based on the deep network we also design an unsupervised regularizer to mitigate influence from data noise. More specifically, we transform the last fully connected layer into two sub-layers  an element-wise multiply layer and a sum layer, and add the unsupervised regularizer to further improve the domain adaptation accuracy. In experiments for pedestrian detection, the proposed method boosts the recall value by nearly 30% while the precision stays almost the same. Furthermore, we perform our method on standard domain adaptation benchmarks on both supervised and unsupervised settings and also achieve state-of-the-art results.  Springer International Publishing Switzerland 2016.
+KW  - Iterative methods
+KW  - Computer vision
+KW  - Deep neural networks
+U2  - Domain adaptation
+U2  - Fully-connected layers
+U2  - Iterative algorithm
+U2  - Pedestrian detection
+U2  - People detection
+U2  - Regularizer
+U2  - Standard domains
+U2  - State of the art
+DO  - 10.1007/978-3-319-48881-3_48
+L2  - http://dx.doi.org/10.1007/978-3-319-48881-3_48
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Bi-level multi-column convolutional neural networks for facial landmark point detection
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Xu, Yanyu
+A1  - Gao, Shenghua
+AD  - School of Information Science and Technology, ShanghaiTech University, Shanghai, China
+VL  - 9914 LNCS
+PY  - 2016
+U1  - 20164803064496
+SP  - 536
+EP  - 551
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - We propose a bi-level Multi-column Convolutional Neural Networks (MCNNs) framework for face alignment. Global CNNs are used to roughly estimate the coordinates of all landmark points, and Local CNNs take patches sampled from the landmarks predicted by Global CNNs as input to predict the displacement between the ground truth and the landmark predicted by Global CNNs. The multi-column architecture leverages the findings that the optimal resolutions for different points are different. Further, the coordinates of all landmark and their displacement are simultaneously estimated in Global and Local CNNs, hence global shape constraints are naturally and implicitly imposed to make it very robust to significant variations in pose, expression, occlusion, and illumination. Extensive experiments demonstrate our method achieves state of the art performance for both image and video based face alignment on many publicly available datasets.  Springer International Publishing Switzerland 2016.
+KW  - Computer vision
+KW  - Convolution
+KW  - Neural networks
+U2  - Convolutional neural network
+U2  - Face alignment
+U2  - Facial landmark
+U2  - Global CNNs
+U2  - Local CNNs
+U2  - Optimal resolution
+U2  - Point detection
+U2  - State-of-the-art performance
+DO  - 10.1007/978-3-319-48881-3_37
+L2  - http://dx.doi.org/10.1007/978-3-319-48881-3_37
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2019 Elsevier Inc.
+TI  - Shape augmented regression for 3D face alignment
+BT  - 14th European Conference on Computer Vision, ECCV 2016, October 11, 2016  -  October 14, 2016
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Gou, Chao
+A1  - Wu, Yue
+A1  - Wang, Fei-Yue
+A1  - Ji, Qiang
+AD  - Institute of Automation, Chinese Academy of Sciences, Beijing, ChinaECSE, Rensselaer Polytechnic Institute, Troy, United StatesQingdao Academy of Intelligent Industries, Qingdao, China
+VL  - 9914 LNCS
+PY  - 2016
+U1  - 20164803064502
+SP  - 604
+EP  - 615
+SN  - 03029743
+CY  - Amsterdam, Netherlands
+PB  - Springer Verlag
+N2  - 2D face alignment has been an active topic and is becoming mature for real applications. However, when large head pose exists, 2D annotated points lose geometric correspondence with respect to actual 3D location. In addition, local appearance varies more dramatically when subjects are with large pose or under various illuminations. 3D face alignment from 2D images is a promising solution to tackle this problem. 3D face alignment aims to estimate the 3D face shape which is consistent across all poses. In this paper, we propose a novel 3D face alignment method. This method consists of two steps. First, we perform 2D landmark detection based on the shape augmented regression. Second, we estimate the 3D shape using the detected 2D landmarks and 3D deformable model. Experimental results on benchmark database demonstrate its preferable performances.  Springer International Publishing Switzerland 2016.
+KW  - Alignment
+KW  - Computer vision
+KW  - Regression analysis
+U2  - 3d face alignments
+U2  - Annotated points
+U2  - Benchmark database
+U2  - Deformable modeling
+U2  - Face alignment
+U2  - Landmark detection
+U2  - Real applications
+U2  - Shape augmented regression
+DO  - 10.1007/978-3-319-48881-3_42
+L2  - http://dx.doi.org/10.1007/978-3-319-48881-3_42
+ER  - 
+
+
+

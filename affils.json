@@ -1,0 +1,2196 @@
+{
+  "affils": [
+    {
+      "name": "CUHK-SenseTime Joint Lab, CUHK, >Shatin, Hong Kong",
+      "name_cn": "CUHK-SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u9999\u6e2f\u4e2d\u6587\u5927\u5b66>\u9999\u6e2f\u6c99\u7530"
+    },
+    {
+      "name": "The University of Texas at Austin, Austin, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u5965\u65af\u6c40\u5206\u6821\uff0c\u7f8e\u56fd\u5965\u65af\u6c40"
+    },
+    {
+      "name": "University of Nottingham, Nottingham, United Kingdom",
+      "name_cn": "\u8bfa\u4e01\u6c49\u5927\u5b66\uff0c\u8bfa\u4e01\u6c49\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "University of Washington, Seattle, United States",
+      "name_cn": "\u534e\u76db\u987f\u5927\u5b66\uff0c\u897f\u96c5\u56fe\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Center for Data Science, Beijing Institute of Big Data Research, Peking University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66\u5317\u4eac\u5927\u6570\u636e\u7814\u7a76\u6240\u6570\u636e\u79d1\u5b66\u4e2d\u5fc3\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "National Computer network Emergency Response technical Team/Coordination Center of China, Ho Chi Minh City, Viet Nam",
+      "name_cn": "\u4e2d\u56fd\u56fd\u5bb6\u8ba1\u7b97\u673a\u7f51\u7edc\u5e94\u6025\u54cd\u5e94\u6280\u672f\u5c0f\u7ec4/\u534f\u8c03\u4e2d\u5fc3\uff0c\u8d8a\u5357\u80e1\u5fd7\u660e\u5e02"
+    },
+    {
+      "name": "Australian National University, Canberra; ACT; 2600, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u56fd\u7acb\u5927\u5b66\uff0c\u582a\u57f9\u62c9;\u6cd5\u6848; 2600\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "SenseTime Computer Vision Research Group, The University of Sydney, Sydney; NSW, Australia",
+      "name_cn": "SenseTime\u8ba1\u7b97\u673a\u89c6\u89c9\u7814\u7a76\u5c0f\u7ec4\uff0c\u6089\u5c3c\u6089\u5c3c\u5927\u5b66; NSW\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "Facebook Research, Menlo Park, United States",
+      "name_cn": "Facebook Research\uff0cMenlo Park\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Imperial College London, London, United Kingdom",
+      "name_cn": "\u4f26\u6566\u5e1d\u56fd\u7406\u5de5\u5b66\u9662\uff0c\u4f26\u6566\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "The Hong Kong University of Science and Technology, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u79d1\u6280\u5927\u5b66\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "Beijing Key Laboratory of Traffic Data Analysis and Mining, Beijing Jiaotong University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u4ea4\u901a\u5927\u5b66\u4ea4\u901a\u6570\u636e\u5206\u6790\u4e0e\u91c7\u77ff\u5317\u4eac\u5e02\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "University of California, Berkeley, United States",
+      "name_cn": "\u7f8e\u56fd\u52a0\u5dde\u5927\u5b66\u4f2f\u514b\u5229\u5206\u6821"
+    },
+    {
+      "name": "School of Information Engineering, Yangzhou University, Yangzhou, China",
+      "name_cn": "\u626c\u5dde\u5927\u5b66\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662\uff0c\u626c\u5dde"
+    },
+    {
+      "name": "Xi\u2019an Jiaotong University, Xi\u2019an, China",
+      "name_cn": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\uff0c\u897f\u5b89\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Hubei University of Arts and Science, Xiangyang, China",
+      "name_cn": "\u6e56\u5317\u6587\u7406\u5b66\u9662\uff0c\u8944\u9633\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "EECS Department, Northwestern University, Evanston, United States",
+      "name_cn": "EECS\u90e8\u95e8\uff0c\u897f\u5317\u5927\u5b66\uff0c\u57c3\u6587\u65af\u987f\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Computer Science, City University of Hong Kong, Hong Kong, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u57ce\u5e02\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\uff0c\u9999\u6e2f\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "Computer Science and Software Engineering, The University of Western Australia, Perth; 6009, Australia",
+      "name_cn": "\u897f\u6fb3\u5927\u5229\u4e9a\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u8f6f\u4ef6\u5de5\u7a0b\u5b66\u9662; 6009\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "Hong Kong Baptist University, Kowloon Tong, China",
+      "name_cn": "\u4e2d\u56fd\u4e5d\u9f99\u5858\u9999\u6e2f\u6d78\u4f1a\u5927\u5b66"
+    },
+    {
+      "name": "University of Washington and NVIDIA Research, Seattle, United States",
+      "name_cn": "\u534e\u76db\u987f\u5927\u5b66\u548cNVIDIA Research\uff0c\u7f8e\u56fd\u897f\u96c5\u56fe"
+    },
+    {
+      "name": "Department of Computer Science and Technology, Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Data and Computer Science, Sun Yat-Sen University, Guangzhou, China",
+      "name_cn": "\u4e2d\u5c71\u5927\u5b66\u6570\u636e\u4e0e\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662\uff0c\u5e7f\u5dde\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Shanghai Key Laboratory of Multidimensional Information Processing, Department of Computer Science and Technology, East China Normal University, Shanghai, China",
+      "name_cn": "\u534e\u4e1c\u5e08\u8303\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb\u4e0a\u6d77\u5e02\u591a\u7ef4\u4fe1\u606f\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "The University of Sydney, SenseTime Computer Vision Research Group, Sydney; NSW, Australia",
+      "name_cn": "\u6089\u5c3c\u5927\u5b66SenseTime\u8ba1\u7b97\u673a\u89c6\u89c9\u7814\u7a76\u7ec4\uff0c\u6089\u5c3c; NSW\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "CAS Center for Excellence in Brain Science and Intelligence Technology, Shanghai, China",
+      "name_cn": "CAS\u4e2d\u56fd\u4e0a\u6d77\u8111\u79d1\u5b66\u4e0e\u667a\u80fd\u6280\u672f\u5353\u8d8a\u4e2d\u5fc3"
+    },
+    {
+      "name": "Yang\u2019s Accounting Consultancy Ltd., London, United Kingdom",
+      "name_cn": "Yang\u7684\u4f1a\u8ba1\u54a8\u8be2\u6709\u9650\u516c\u53f8\uff0c\u82f1\u56fd\u4f26\u6566"
+    },
+    {
+      "name": "Cognitive Science Department, Xiamen University, Xiamen, China",
+      "name_cn": "\u53a6\u95e8\u5927\u5b66\u8ba4\u77e5\u79d1\u5b66\u7cfb\uff0c\u53a6\u95e8"
+    },
+    {
+      "name": "Moshanghua Technology Co, Beijing, China",
+      "name_cn": "\u83ab\u5c71\u534e\u79d1\u6280\u6709\u9650\u516c\u53f8\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Research School of Computer Science, Australian National University, Canberra, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u582a\u57f9\u62c9\u6fb3\u5927\u5229\u4e9a\u56fd\u7acb\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7814\u7a76\u9662"
+    },
+    {
+      "name": "CUHK-SenseTime Joint Lab, CUHK, Hong Kong",
+      "name_cn": "CUHK-SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u9999\u6e2f\u4e2d\u6587\u5927\u5b66"
+    },
+    {
+      "name": "Adobe Research, San Jose, United States",
+      "name_cn": "Adobe Research\uff0c\u7f8e\u56fd\u5723\u4f55\u585e"
+    },
+    {
+      "name": "Megvii (Face++) Technology Inc., Beijing, China",
+      "name_cn": "Megvii\uff08Face ++\uff09Technology Inc.\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "School of Information Science and Technology, ShanghaiTech University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u79d1\u6280\u5927\u5b66\u4fe1\u606f\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "Middle East Technical University, \u00c7ankaya, Turkey",
+      "name_cn": "\u4e2d\u4e1c\u6280\u672f\u5927\u5b66\uff0c\u571f\u8033\u5176\u00c7ankaya"
+    },
+    {
+      "name": "Hunan University, Changsha, China",
+      "name_cn": "\u6e56\u5357\u5927\u5b66\uff0c\u957f\u6c99\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "China Academy of Information and Communications Technology, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u4fe1\u606f\u901a\u4fe1\u6280\u672f\u7814\u7a76\u9662\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Tencent AI Lab, Shenzhen, China",
+      "name_cn": "\u817e\u8bafAI\u5b9e\u9a8c\u5ba4\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "CTU in Prague, Prague, Czech Republic",
+      "name_cn": "CTU\u5728\u5e03\u62c9\u683c\uff0c\u5e03\u62c9\u683c\uff0c\u6377\u514b\u5171\u548c\u56fd"
+    },
+    {
+      "name": "Nara Institute of Science and Technology, Ikoma, Japan",
+      "name_cn": "\u5948\u826f\u79d1\u5b66\u6280\u672f\u7814\u7a76\u6240\uff0c\u65e5\u672c\u751f\u9a79"
+    },
+    {
+      "name": "Universidade Federal de Itajub\u00e1, Pinheirinho, Brazil",
+      "name_cn": "Universidade FederaldeItajub\u00e1\uff0cPinheirinho\uff0c\u5df4\u897f"
+    },
+    {
+      "name": "Shanghai Key Laboratory of Intelligent Information Processing, School of Computer Science, Fudan University, Shanghai, China",
+      "name_cn": "\u590d\u65e6\u5927\u5b66\u8ba1\u7b97\u673a\u5b66\u9662\u4e0a\u6d77\u5e02\u667a\u80fd\u4fe1\u606f\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "University of Texas at Austin, Austin, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u5965\u65af\u6c40\u5206\u6821\uff0c\u7f8e\u56fd\u5965\u65af\u6c40"
+    },
+    {
+      "name": "Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Beihang University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66\u5317\u4eac\u5927\u6570\u636e\u7cbe\u51c6\u533b\u5b66\u9ad8\u7ea7\u521b\u65b0\u4e2d\u5fc3\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "GE Global Research, Niskayuna; NY, United States",
+      "name_cn": "GE Global Research\uff0cNiskayuna;\u7ebd\u7ea6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Intel Labs, Santa Clara, United States",
+      "name_cn": "\u82f1\u7279\u5c14\u5b9e\u9a8c\u5ba4\uff0c\u7f8e\u56fd\u5723\u514b\u62c9\u62c9"
+    },
+    {
+      "name": "Baidu Research, Sunnyvale, United States",
+      "name_cn": "\u767e\u5ea6\u7814\u7a76\uff0c\u7f8e\u56fd\u6851\u5c3c\u7ef4\u5c14"
+    },
+    {
+      "name": "Austrian Institute of Technology, Seibersdorf, Austria",
+      "name_cn": "\u5965\u5730\u5229\u585e\u4f2f\u65af\u591a\u592b\u5965\u5730\u5229\u6280\u672f\u5b66\u9662"
+    },
+    {
+      "name": "Megvii Inc., Beijing, China",
+      "name_cn": "Megvii Inc.\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "The Chinese University of Hong Kong, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "Google, Mountain View, United States",
+      "name_cn": "\u8c37\u6b4c\uff0c\u5c71\u666f\u57ce\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Centre for Artificial Intelligence, SIT, FEIT, University of Technology Sydney, Sydney, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u6089\u5c3c\u6089\u5c3c\u79d1\u6280\u5927\u5b66\u4eba\u5de5\u667a\u80fd\u4e2d\u5fc3\uff0cSIT\uff0cFEIT"
+    },
+    {
+      "name": "CUHK-Sensetime Joint Lab, The Chinese University of Hong Kong, Shatin, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\u9999\u6e2f\u4e2d\u6587\u5927\u5b66Sensetime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u9999\u6e2f\u6c99\u7530"
+    },
+    {
+      "name": "Chongqing Key Laboratory of Signal and Information Processing, Chongqing; 400065, China",
+      "name_cn": "\u91cd\u5e86\u5e02\u91cd\u5e86\u5e02\u4fe1\u53f7\u4e0e\u4fe1\u606f\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4; 400065\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\uff08CASIA\uff09\u667a\u80fd\u611f\u77e5\u4e0e\u8ba1\u7b97\u7814\u7a76\u4e2d\u5fc3\uff08CRIPAC\uff09\uff0c\u6a21\u5f0f\u8bc6\u522b\u56fd\u5bb6\u5b9e\u9a8c\u5ba4\uff08NLPR\uff09\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Sensetime Ltd., Beijing, China",
+      "name_cn": "Sensetime Ltd.\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Illinois at UrbanaChampaign, Urbana; IL, United States",
+      "name_cn": "\u4f0a\u5229\u8bfa\u4f0a\u5927\u5b66\u5384\u5df4\u7eb3\u9999\u69df\u5206\u6821; IL\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Hacettepe University, \u00c7ankaya, Turkey",
+      "name_cn": "Hacettepe\u5927\u5b66\uff0c\u571f\u8033\u5176\u00c7ankaya"
+    },
+    {
+      "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne, Lausanne, Switzerland",
+      "name_cn": "\u00c9colePolytechniqueF\u00e9d\u00e9raledeLausanne\uff0c\u745e\u58eb\u6d1b\u6851"
+    },
+    {
+      "name": "School of Computer Science and Engineering, Nanyang Technological University, Singapore, Singapore",
+      "name_cn": "\u65b0\u52a0\u5761\u5357\u6d0b\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u9662"
+    },
+    {
+      "name": "Department of Intelligence Science, Peking University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66\u60c5\u62a5\u79d1\u5b66\u7cfb\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e5d\u9f99\u9999\u6e2f\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb"
+    },
+    {
+      "name": "IBM Research, New York, United States",
+      "name_cn": "IBM Research\uff0c\u7ebd\u7ea6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Computer Vision Lab, ETH Zurich, Z\u00fcrich, Switzerland",
+      "name_cn": "\u8ba1\u7b97\u673a\u89c6\u89c9\u5b9e\u9a8c\u5ba4\uff0c\u745e\u58eb\u82cf\u9ece\u4e16\u8054\u90a6\u7406\u5de5\u5b66\u9662\uff0c\u745e\u58eb\u82cf\u9ece\u4e16"
+    },
+    {
+      "name": "School of Information Technology, Nanjing University of Chinese Medicine, Nanjing, China",
+      "name_cn": "\u5357\u4eac\u4e2d\u533b\u836f\u5927\u5b66\u4fe1\u606f\u6280\u672f\u5b66\u9662\uff0c\u5357\u4eac"
+    },
+    {
+      "name": "Rutgers University, NB, United States",
+      "name_cn": "\u7f57\u683c\u65af\u5927\u5b66\uff0cNB\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing; 100190, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u8ba1\u7b97\u6280\u672f\u7814\u7a76\u6240\u4e2d\u56fd\u79d1\u5b66\u9662\u667a\u80fd\u4fe1\u606f\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u5317\u4eac; 100190\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Zhejiang University, Hangzhou, China",
+      "name_cn": "\u6d59\u6c5f\u5927\u5b66\uff0c\u4e2d\u56fd\u676d\u5dde"
+    },
+    {
+      "name": "Universidad Aut\u00f3noma de Madrid, Madrid, Spain",
+      "name_cn": "\u9a6c\u5fb7\u91cc\u81ea\u6cbb\u5927\u5b66\uff0c\u9a6c\u5fb7\u91cc\uff0c\u897f\u73ed\u7259"
+    },
+    {
+      "name": "The University of Tokyo, Tokyo, Japan",
+      "name_cn": "\u4e1c\u4eac\u5927\u5b66\uff0c\u65e5\u672c\u4e1c\u4eac"
+    },
+    {
+      "name": "Department of Electronic Engineering, Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u7535\u5b50\u5de5\u7a0b\u7cfb\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Megvii Inc (Face++), Beijing, China",
+      "name_cn": "Megvii Inc\uff08Face ++\uff09\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Microsoft AI and Research, Redmond, United States",
+      "name_cn": "Microsoft AI and Research\uff0cRedmond\uff0cUnited States"
+    },
+    {
+      "name": "Key Laboratory of Machine Perception, Shenzhen Graduate School, Peking University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66\u6df1\u5733\u7814\u7a76\u751f\u9662\u673a\u5668\u611f\u77e5\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "Carnegie Mellon University, Pittsburgh; PA; 15213, United States",
+      "name_cn": "\u5339\u5179\u5821\u5361\u5185\u57fa\u6885\u9686\u5927\u5b66; PA; 15213\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "The University of North Carolina at Chapel Hill, Chapel Hill, United States",
+      "name_cn": "\u5317\u5361\u7f57\u6765\u7eb3\u5927\u5b66\u6559\u5802\u5c71\u5206\u6821\uff0c\u6559\u5802\u5c71\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "National Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\u56fd\u5bb6\u6a21\u5f0f\u8bc6\u522b\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Texas at San Antonio, San Antonio, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u5723\u5b89\u4e1c\u5c3c\u5965\u5206\u6821\uff0c\u5723\u5b89\u4e1c\u5c3c\u5965\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen), Shenzhen, China",
+      "name_cn": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\uff08\u6df1\u5733\uff09\u7406\u5de5\u5b66\u9662\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Central Florida, Orlando; FL, United States",
+      "name_cn": "\u5965\u5170\u591a\u4e2d\u4f5b\u7f57\u91cc\u8fbe\u5927\u5b66;\u4f5b\u7f57\u91cc\u8fbe\u5dde\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China",
+      "name_cn": "\u5357\u4eac\u5927\u5b66\u65b0\u578b\u8f6f\u4ef6\u6280\u672f\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5357\u4eac"
+    },
+    {
+      "name": "The University of Sydney, Sydney, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u6089\u5c3c\u6089\u5c3c\u5927\u5b66"
+    },
+    {
+      "name": "The University of Adelaide, Adelaide, Australia",
+      "name_cn": "\u963f\u5fb7\u83b1\u5fb7\u5927\u5b66\uff0c\u6fb3\u5927\u5229\u4e9a\u963f\u5fb7\u83b1\u5fb7"
+    },
+    {
+      "name": "Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u5408\u4f5c\u5a92\u4f53\u7f51\u521b\u65b0\u4e2d\u5fc3\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "Institute of Computing Technology, CAS, Beijing; 100049, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u8ba1\u7b97\u6280\u672f\u7814\u7a76\u6240\uff0c\u5317\u4eac; 100049\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Intelligent Mobility Division, Mechanical and Mechatronics Systems Research Laboratories, Industrial Technology Research Institute, Zhudong, Taiwan",
+      "name_cn": "\u53f0\u6e7e\u7af9\u4e1c\u5de5\u4e1a\u6280\u672f\u7814\u7a76\u6240\u673a\u68b0\u4e0e\u673a\u7535\u4e00\u4f53\u5316\u7cfb\u7edf\u7814\u7a76\u5b9e\u9a8c\u5ba4\u667a\u80fd\u79fb\u52a8\u90e8"
+    },
+    {
+      "name": "Facebook AI Research (FAIR), Menlo Park; CA, United States",
+      "name_cn": "Facebook AI Research\uff08FAIR\uff09\uff0cMenlo Park; CA\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "ShanghaiTech University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u79d1\u6280\u5927\u5b66\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "Guangdong Key Laboratory of Big Data Analysis and Processing, Guangzhou, China",
+      "name_cn": "\u5e7f\u4e1c\u7701\u5927\u6570\u636e\u5206\u6790\u4e0e\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5e7f\u5dde"
+    },
+    {
+      "name": "RWTH Aachen University, Aachen, Germany",
+      "name_cn": "\u4e9a\u741b\u5de5\u4e1a\u5927\u5b66\uff0c\u5fb7\u56fd\u4e9a\u741b"
+    },
+    {
+      "name": "The Hong Kong Polytechnic University, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u7406\u5de5\u5927\u5b66\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "Shenzhen University, Shenzhen, China",
+      "name_cn": "\u6df1\u5733\u5927\u5b66\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Maryland, College Park; MD, United States",
+      "name_cn": "\u9a6c\u91cc\u5170\u5927\u5b66\u5e15\u514b\u5206\u6821; MD\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "The Hong Kong University of Science and Technology, Kowloon, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e5d\u9f99\u79d1\u6280\u5927\u5b66"
+    },
+    {
+      "name": "Department of Electrical Engineering, National Tsing Hua University, Hsinchu, Taiwan",
+      "name_cn": "\u56fd\u7acb\u6e05\u534e\u5927\u5b66\u7535\u5b50\u5de5\u7a0b\u7cfb\uff0c\u53f0\u6e7e\u65b0\u7af9"
+    },
+    {
+      "name": "Siemens AG, Munich, Germany",
+      "name_cn": "\u897f\u95e8\u5b50\u80a1\u4efd\u516c\u53f8\uff0c\u5fb7\u56fd\u6155\u5c3c\u9ed1"
+    },
+    {
+      "name": "University of Rochester, Rochester, United States",
+      "name_cn": "\u7f57\u5f7b\u65af\u7279\u5927\u5b66\uff0c\u7f57\u5f7b\u65af\u7279\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Snap Inc., Venice, United States",
+      "name_cn": "Snap Inc.\uff0c\u5a01\u5c3c\u65af\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Max Planck Institute for Informatics, Saarland Informatics Campus, Saarbr\u00fccken, Germany",
+      "name_cn": "\u9a6c\u514b\u65af\u666e\u6717\u514b\u4fe1\u606f\u5b66\u7814\u7a76\u6240\uff0c\u8428\u5c14\u4fe1\u606f\u5b66\u6821\uff0c\u5fb7\u56fd\u8428\u5c14\u5e03\u5415\u80af"
+    },
+    {
+      "name": "Nvidia, Santa Clara, United States",
+      "name_cn": "Nvidia\uff0c\u5723\u514b\u62c9\u62c9\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "University of Oxford, Oxford, United Kingdom",
+      "name_cn": "\u725b\u6d25\u5927\u5b66\uff0c\u725b\u6d25\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "CVLab, EPFL, Lausanne, Switzerland",
+      "name_cn": "CVLab\uff0cEPFL\uff0c\u6d1b\u6851\uff0c\u745e\u58eb"
+    },
+    {
+      "name": "SketchX, Queen Mary University of London, London, United Kingdom",
+      "name_cn": "SketchX\uff0c\u4f26\u6566\u5927\u5b66\u739b\u4e3d\u7687\u540e\u5b66\u9662\uff0c\u82f1\u56fd\u4f26\u6566"
+    },
+    {
+      "name": "Sensetime Group Limited, Beijing, China",
+      "name_cn": "Sensetime Group Limited\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Google AI, Mountain View; CA, United States",
+      "name_cn": "Google AI\uff0cMountain View; CA\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u7cfb\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China",
+      "name_cn": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\uff0c\u6b66\u6c49"
+    },
+    {
+      "name": "Carnegie Mellon University, Pittsburgh, United States",
+      "name_cn": "\u5361\u5185\u57fa\u6885\u9686\u5927\u5b66\uff0c\u7f8e\u56fd\u5339\u5179\u5821"
+    },
+    {
+      "name": "Hong Kong University of Science and Technology, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u79d1\u6280\u5927\u5b66\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "University of California San Diego, San Diego, United States",
+      "name_cn": "\u52a0\u5dde\u5927\u5b66\u5723\u5730\u4e9a\u54e5\u5206\u6821\uff0c\u5723\u5730\u4e9a\u54e5\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Institute of Automation, Chinese Academy of Sciences, Beijing; 100190, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\uff0c\u5317\u4eac; 100190\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Sun Yat-sen University, Guangzhou, China",
+      "name_cn": "\u4e2d\u5c71\u5927\u5b66\uff0c\u5e7f\u5dde\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Department of Automation, University of Science and Technology of China, Hefei, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\u81ea\u52a8\u5316\u7cfb\uff0c\u5408\u80a5\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\u6a21\u5f0f\u8bc6\u522b\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "University of Chinese Academy of Sciences (UCAS), Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5927\u5b66\uff08UCAS\uff09\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Intellifusion, Shenzhen, China",
+      "name_cn": "Intellifusion\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Department of Computer Science, University of Texas at Austin, Austin, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u5965\u65af\u6c40\u5206\u6821\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\uff0c\u7f8e\u56fd\u5965\u65af\u6c40"
+    },
+    {
+      "name": "Department of Computer Vision Technology (VIS), Baidu Inc., Beijing, China",
+      "name_cn": "\u8ba1\u7b97\u673a\u89c6\u89c9\u6280\u672f\u7cfb\uff08VIS\uff09\uff0c\u767e\u5ea6\u516c\u53f8\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "College of EECS, National Taiwan University, Taipei, Taiwan",
+      "name_cn": "\u53f0\u6e7e\u53f0\u5317\u5927\u5b66EECS\u5b66\u9662"
+    },
+    {
+      "name": "University of California at Merced, Merced, United States",
+      "name_cn": "\u52a0\u5dde\u5927\u5b66\u9ed8\u585e\u5fb7\u5206\u6821\uff0c\u9ed8\u585e\u5fb7\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "DAMO Academy, Alibaba Group, Hangzhou, China",
+      "name_cn": "DAMO\u5b66\u9662\uff0c\u963f\u91cc\u5df4\u5df4\u96c6\u56e2\uff0c\u4e2d\u56fd\u676d\u5dde"
+    },
+    {
+      "name": "TuSimple, Beijing, China",
+      "name_cn": "TuSimple\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Queen Mary University of London, London, United Kingdom",
+      "name_cn": "\u4f26\u6566\u5927\u5b66\u739b\u4e3d\u7687\u540e\u5b66\u9662\uff0c\u82f1\u56fd\u4f26\u6566"
+    },
+    {
+      "name": "Snap Inc., Venice, Los Angeles, United States",
+      "name_cn": "Snap Inc.\uff0c\u5a01\u5c3c\u65af\uff0c\u6d1b\u6749\u77f6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Electronic Engineering and Information Science, University of Science and Technology of China, Hefei, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\u7535\u5b50\u5de5\u7a0b\u4e0e\u4fe1\u606f\u79d1\u5b66\u7cfb\uff0c\u5408\u80a5\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Tsinghua University and BNRist, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u548cBNRist\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Electronics and Telecommunications Research Institute, Seoul, Korea, Republic of",
+      "name_cn": "\u97e9\u56fd\u9996\u5c14\u7535\u5b50\u4e0e\u7535\u4fe1\u7814\u7a76\u6240"
+    },
+    {
+      "name": "Fujian Key Laboratory of Sensing and Computing for Smart City, Xiamen University, Xiamen; Fujian, China",
+      "name_cn": "\u53a6\u95e8\u5927\u5b66\u667a\u6167\u57ce\u5e02\u4f20\u611f\u4e0e\u8ba1\u7b97\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u53a6\u95e8;\u4e2d\u56fd\u798f\u5efa"
+    },
+    {
+      "name": "University of Massachusetts Boston, Boston, United States",
+      "name_cn": "\u9a6c\u8428\u8bf8\u585e\u5927\u5b66\u6ce2\u58eb\u987f\uff0c\u6ce2\u58eb\u987f\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "IBM T.J. Watson Research Center, Yorktown Heights, United States",
+      "name_cn": "IBM T.J.\u6c83\u68ee\u7814\u7a76\u4e2d\u5fc3\uff0c\u7ea6\u514b\u9547\u9ad8\u5730\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Automation, Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u81ea\u52a8\u5316\u7cfb\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Tencent Youtu, Shenzhen, China",
+      "name_cn": "\u817e\u8bafYoutu\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Department of Computer Science, City University of Hong Kong, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u57ce\u5e02\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "The University of Edinburgh, Edinburgh, United Kingdom",
+      "name_cn": "\u7231\u4e01\u5821\u5927\u5b66\uff0c\u7231\u4e01\u5821\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "Youtu Lab, Tencent, Shanghai, China",
+      "name_cn": "Youtu Lab\uff0c\u817e\u8baf\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "AIBee, Palo Alto, United States",
+      "name_cn": "AIBee\uff0cPalo Alto\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Central South University, Changsha, China",
+      "name_cn": "\u4e2d\u5357\u5927\u5b66\uff0c\u957f\u6c99\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "ROSE Lab, Nanyang Technological University, Singapore, Singapore",
+      "name_cn": "ROSE Lab\uff0c\u5357\u6d0b\u7406\u5de5\u5927\u5b66\uff0c\u65b0\u52a0\u5761\uff0c\u65b0\u52a0\u5761"
+    },
+    {
+      "name": "University of Missouri, Columbia, United States",
+      "name_cn": "\u5bc6\u82cf\u91cc\u5927\u5b66\uff0c\u54e5\u4f26\u6bd4\u4e9a\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Harbin Institute of Technology (Shenzhen), Shenzhen, China",
+      "name_cn": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66\uff08\u6df1\u5733\uff09\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Visbody Inc., Shanghai, China",
+      "name_cn": "Visbody Inc.\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "Alibaba AI Labs, Hangzhou, China",
+      "name_cn": "\u963f\u91cc\u5df4\u5df4AI\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u676d\u5dde"
+    },
+    {
+      "name": "Facebook Reality Labs, Pittsburgh, United States",
+      "name_cn": "Facebook Reality Labs\uff0c\u5339\u5179\u5821\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Radiology and BRIC, University of North Carolina at Chapel Hill, Chapel Hill; NC; 27599, United States",
+      "name_cn": "\u5317\u5361\u7f57\u6765\u7eb3\u5927\u5b66\u6559\u5802\u5c71\u5206\u6821\u7684\u653e\u5c04\u5b66\u548c\u91d1\u7816\u56db\u56fd; NC; 27599\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Departments of Informatics and Neuroinformatics, University of Zurich and ETH Zurich, Zurich, Switzerland",
+      "name_cn": "\u4fe1\u606f\u5b66\u548c\u795e\u7ecf\u4fe1\u606f\u5b66\u7cfb\uff0c\u82cf\u9ece\u4e16\u5927\u5b66\u548c\u82cf\u9ece\u4e16\u8054\u90a6\u7406\u5de5\u5b66\u9662\uff0c\u745e\u58eb\u82cf\u9ece\u4e16"
+    },
+    {
+      "name": "Department of Automation, Shanghai Jiao Tong University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u81ea\u52a8\u5316\u7cfb\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "Center for Research on Intelligent Perception and Computing, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\u667a\u80fd\u611f\u77e5\u4e0e\u8ba1\u7b97\u7814\u7a76\u4e2d\u5fc3\uff0c\u6a21\u5f0f\u8bc6\u522b\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Tianjin University, Tianjin, China",
+      "name_cn": "\u5929\u6d25\u5927\u5b66\uff0c\u5929\u6d25\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Anyvision, Queens Road, Belfast, United Kingdom",
+      "name_cn": "Anyvision\uff0cQueens Road\uff0c\u8d1d\u5c14\u6cd5\u65af\u7279\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "SenseTime Research, Hong Kong",
+      "name_cn": "SenseTime Research\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "National University of Singapore, Singapore, Singapore",
+      "name_cn": "\u65b0\u52a0\u5761\u56fd\u7acb\u5927\u5b66\uff0c\u65b0\u52a0\u5761\uff0c\u65b0\u52a0\u5761"
+    },
+    {
+      "name": "UC Berkeley/ICSI, Berkeley, United States",
+      "name_cn": "\u52a0\u5dde\u5927\u5b66\u4f2f\u514b\u5229\u5206\u6821/ ICSI\uff0c\u7f8e\u56fd\u4f2f\u514b\u5229"
+    },
+    {
+      "name": "NVIDIA, Santa Clara, United States",
+      "name_cn": "NVIDIA\uff0c\u7f8e\u56fd\u5723\u514b\u62c9\u62c9"
+    },
+    {
+      "name": "Jiulong Lake Campus, Southeast University, Nanjing; Jiangsu Province; 211189, China",
+      "name_cn": "\u5357\u4eac\u4e1c\u5357\u5927\u5b66\u4e5d\u9f99\u6e56\u6821\u533a;\u6c5f\u82cf; 211189\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Center for Perceptual Systems, University of Texas at Austin, Austin, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u5965\u65af\u6c40\u5206\u6821\u611f\u77e5\u7cfb\u7edf\u4e2d\u5fc3\uff0c\u7f8e\u56fd\u5965\u65af\u6c40"
+    },
+    {
+      "name": "CAS Center for Excellence in Brain Science and Intelligence Technology, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u667a\u80fd\u6280\u672f\u7814\u7a76\u4e2d\u5fc3\uff0c\u6a21\u5f0f\u8bc6\u522b\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Huawei Noah\u2018S Ark Lab, Beijing, China",
+      "name_cn": "\u534e\u4e3a\u8bfa\u4e9a\u65b9\u821f\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "National Tsing Hua University, Hsinchu, Taiwan",
+      "name_cn": "\u56fd\u7acb\u6e05\u534e\u5927\u5b66\uff0c\u53f0\u6e7e\u65b0\u7af9"
+    },
+    {
+      "name": "USC Institute for Creative Technologies, Los Angeles, United States",
+      "name_cn": "USC\u521b\u65b0\u6280\u672f\u7814\u7a76\u6240\uff0c\u7f8e\u56fd\u6d1b\u6749\u77f6"
+    },
+    {
+      "name": "Center for Biometrics and Security Research and National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\u751f\u7269\u8bc6\u522b\u4e0e\u5b89\u5168\u7814\u7a76\u4e2d\u5fc3\u548c\u6a21\u5f0f\u8bc6\u522b\u56fd\u5bb6\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Department of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea, Republic of",
+      "name_cn": "\u97e9\u56fd\u9996\u5c14\u5ef6\u4e16\u5927\u5b66\u7535\u6c14\u4e0e\u7535\u5b50\u5de5\u7a0b\u7cfb"
+    },
+    {
+      "name": "National Tsing Hua University, Taipei, Taiwan",
+      "name_cn": "\u56fd\u7acb\u6e05\u534e\u5927\u5b66\uff0c\u53f0\u5317\uff0c\u53f0\u6e7e"
+    },
+    {
+      "name": "Harbin Institute of Technology, Harbin, China",
+      "name_cn": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66\uff0c\u54c8\u5c14\u6ee8"
+    },
+    {
+      "name": "POSTECH, Pohang, Korea, Republic of",
+      "name_cn": "POSTECH\uff0c\u6d66\u9879\uff0c\u97e9\u56fd\uff0c\u5171\u548c\u56fd"
+    },
+    {
+      "name": "Department of Philosophy, Carnegie Mellon University, Pittsburgh, United States",
+      "name_cn": "\u7f8e\u56fd\u5339\u5179\u5821\u5361\u5185\u57fa\u6885\u9686\u5927\u5b66\u54f2\u5b66\u7cfb"
+    },
+    {
+      "name": "Simon Fraser University, Burnaby, Canada",
+      "name_cn": "\u897f\u8499\u5f17\u96f7\u6cfd\u5927\u5b66\uff0c\u52a0\u62ff\u5927\u672c\u62ff\u6bd4"
+    },
+    {
+      "name": "ECSE, Rensselaer Polytechnic Institute, Troy, United States",
+      "name_cn": "ECSE\uff0cRensselaer Polytechnic Institute\uff0cTroy\uff0cUnited States"
+    },
+    {
+      "name": "Technion - Israel Institute of Technology, Haifa, Israel",
+      "name_cn": "\u4ee5\u8272\u5217\u7406\u5de5\u5b66\u9662\uff0c\u4ee5\u8272\u5217\u6d77\u6cd5\uff0c\u4ee5\u8272\u5217\u7406\u5de5\u5b66\u9662"
+    },
+    {
+      "name": "SenseTime Research, Shenzhen, China",
+      "name_cn": "SenseTime Research\uff0c\u4e2d\u56fd\u6df1\u5733"
+    },
+    {
+      "name": "Tencent AI Lab, Beijing, China",
+      "name_cn": "\u817e\u8bafAI\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Tencent Youtu Lab, Shenzhen, China",
+      "name_cn": "\u817e\u8bafYoutu\u5b9e\u9a8c\u5ba4\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Digital Medical Research Center, School of Basic Medical Science, Fudan University, Shanghai; 200032, China",
+      "name_cn": "\u590d\u65e6\u5927\u5b66\u57fa\u7840\u533b\u5b66\u9662\u6570\u5b57\u533b\u5b66\u7814\u7a76\u4e2d\u5fc3\uff0c\u4e0a\u6d77; 200032\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Visual Computing Center, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+      "name_cn": "\u89c6\u89c9\u8ba1\u7b97\u4e2d\u5fc3\uff0c\u963f\u535c\u675c\u62c9\u56fd\u738b\u79d1\u6280\u5927\u5b66\uff0c\u6c99\u7279\u963f\u62c9\u4f2fThuwal"
+    },
+    {
+      "name": "University of Southern California, Los Angeles; CA; 90089, United States",
+      "name_cn": "\u5357\u52a0\u5dde\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821; CA; 90089\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "South China University of Technology, Guangzhou, China",
+      "name_cn": "\u534e\u5357\u7406\u5de5\u5927\u5b66\uff0c\u5e7f\u5dde\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "CIGIT, Chinese Academy of Sciences, Chongqing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662CIGIT\uff0c\u4e2d\u56fd\u91cd\u5e86"
+    },
+    {
+      "name": "Singapore University of Technology and Design, Singapore, Singapore",
+      "name_cn": "\u65b0\u52a0\u5761\u79d1\u6280\u4e0e\u8bbe\u8ba1\u5927\u5b66\uff0c\u65b0\u52a0\u5761\uff0c\u65b0\u52a0\u5761"
+    },
+    {
+      "name": "Inception Institute of Artificial Intelligence, Abu Dhabi, United Arab Emirates",
+      "name_cn": "\u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd\u963f\u5e03\u624e\u6bd4\u4eba\u5de5\u667a\u80fd\u521b\u65b0\u7814\u7a76\u6240"
+    },
+    {
+      "name": "University of Electronic Science and Technology of China, Chengdu, China",
+      "name_cn": "\u4e2d\u56fd\u7535\u5b50\u79d1\u6280\u5927\u5b66\uff0c\u6210\u90fd\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Institute of Software, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u8f6f\u4ef6\u7814\u7a76\u6240\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Microsoft Reserach Asia, Beijing, China",
+      "name_cn": "\u5fae\u8f6f\u4e9a\u6d32\u7814\u7a76\u9662\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "The Hong Kong Polytechnic University, Kowloon, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e5d\u9f99\u9999\u6e2f\u7406\u5de5\u5927\u5b66"
+    },
+    {
+      "name": "PCA Lab, Key Lab of Intelligent Perception and Systems for High-Dimensional Information of Ministry of Education, Jiangsu Key Lab of Image and Video Understanding for Social Security, School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China",
+      "name_cn": "PCA\u5b9e\u9a8c\u5ba4\uff0c\u6559\u80b2\u90e8\u9ad8\u7ef4\u4fe1\u606f\u667a\u80fd\u611f\u77e5\u4e0e\u7cfb\u7edf\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u6c5f\u82cf\u7701\u793e\u4f1a\u4fdd\u969c\u56fe\u50cf\u4e0e\u89c6\u9891\u7406\u89e3\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5357\u4eac\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u9662\uff0c\u5357\u4eac"
+    },
+    {
+      "name": "Umbo Computer Vision, Taipei, Taiwan",
+      "name_cn": "Umbo Computer Vision\uff0c\u53f0\u5317\uff0c\u53f0\u6e7e"
+    },
+    {
+      "name": "Computer Vision Lab, ETH Zurich, Zurich, Switzerland",
+      "name_cn": "\u745e\u58eb\u82cf\u9ece\u4e16\u8054\u90a6\u7406\u5de5\u5b66\u9662\u8ba1\u7b97\u673a\u89c6\u89c9\u5b9e\u9a8c\u5ba4"
+    },
+    {
+      "name": "University of Pittsburgh, 3362 Fifth Avenue, Pittsburgh; PA; 15213, United States",
+      "name_cn": "\u5339\u5179\u5821\u5927\u5b66\uff0c\u5339\u5179\u5821\u7b2c\u4e94\u5927\u90533362\u53f7; PA; 15213\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Umbo Computer Vision, Taiwan",
+      "name_cn": "Umbo Computer Vision\uff0c\u53f0\u6e7e"
+    },
+    {
+      "name": "University of Bern, Bern, Switzerland",
+      "name_cn": "\u745e\u58eb\u4f2f\u5c14\u5c3c\u5927\u5b66\u4f2f\u5c14\u5c3c\u5206\u6821"
+    },
+    {
+      "name": "School of Software, Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u8f6f\u4ef6\u5b66\u9662\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Deakin University, Geelong, Australia",
+      "name_cn": "\u8fea\u80af\u5927\u5b66\uff0c\u5409\u6717\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "University of Pennsylvania, Philadelphia, United States",
+      "name_cn": "\u5bbe\u5915\u6cd5\u5c3c\u4e9a\u5927\u5b66\uff0c\u8d39\u57ce\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing; 400065, China",
+      "name_cn": "\u91cd\u5e86\u90ae\u7535\u5927\u5b66\u901a\u4fe1\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662\uff0c\u91cd\u5e86; 400065\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Beijing Advanced Innovation Center for Big Data and Brain Computing, School of Computer Science and Engineering, Beihang University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u9662\u5317\u4eac\u5927\u6570\u636e\u4e0e\u8111\u8ba1\u7b97\u9ad8\u7ea7\u521b\u65b0\u4e2d\u5fc3\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "Key Laboratory of Shanghai Education Commission for Intelligent Interaction and Cognitive Engineering, Shanghai Jiao Tong University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u4e0a\u6d77\u5e02\u667a\u80fd\u4e92\u52a8\u4e0e\u8ba4\u77e5\u5de5\u7a0b\u6559\u80b2\u59d4\u5458\u4f1a\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "Microsoft Research, Beijing, China",
+      "name_cn": "\u5fae\u8f6f\u7814\u7a76\u9662\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "National Institute of Informatics, Tokyo; 101-8430, Japan",
+      "name_cn": "\u4e1c\u4eac\u56fd\u7acb\u4fe1\u606f\u5b66\u7814\u7a76\u6240;\u65e5\u672c101-8430"
+    },
+    {
+      "name": "Department of Electrical Engineering, National Taiwan University, Taiwan",
+      "name_cn": "\u53f0\u6e7e\u5927\u5b66\u7535\u5b50\u5de5\u7a0b\u7cfb\uff0c\u53f0\u6e7e"
+    },
+    {
+      "name": "Qingdao Academy of Intelligent Industries, Qingdao, China",
+      "name_cn": "\u9752\u5c9b\u667a\u80fd\u5de5\u4e1a\u5b66\u9662\uff0c\u4e2d\u56fd\u9752\u5c9b"
+    },
+    {
+      "name": "University of California, Los Angeles, Los Angeles, United States",
+      "name_cn": "\u52a0\u5229\u798f\u5c3c\u4e9a\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821\uff0c\u6d1b\u6749\u77f6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Stevens Institute of Technology, Hoboken, United States",
+      "name_cn": "\u53f2\u8482\u6587\u65af\u7406\u5de5\u5b66\u9662\uff0c\u7f8e\u56fd\u970d\u535a\u80af"
+    },
+    {
+      "name": "Korea University, Seoul, Korea, Republic of",
+      "name_cn": "\u97e9\u56fd\u5927\u5b66\uff0c\u97e9\u56fd\u9996\u5c14"
+    },
+    {
+      "name": "The State Key Laboratory for Management and Control of Complex Systems, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\u590d\u6742\u7cfb\u7edf\u7ba1\u7406\u4e0e\u63a7\u5236\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Birmingham, Birmingham, United Kingdom",
+      "name_cn": "\u4f2f\u660e\u7ff0\u5927\u5b66\uff0c\u4f2f\u660e\u7ff0\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "SenseTime, Beijing, China",
+      "name_cn": "SenseTime\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Electronics Engineering and Computer Science, Peking University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66\u7535\u5b50\u5de5\u7a0b\u4e0e\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "Key Laboratory of Machine Perception (MOE), School of EECS, Peking University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66EECS\u5b66\u9662\u673a\u5668\u611f\u77e5\uff08MOE\uff09\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "Tencent Youtu, Shanghai, China",
+      "name_cn": "\u817e\u8bafYoutu\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "National University of Defense Technology, Hunan, China",
+      "name_cn": "\u56fd\u9632\u79d1\u6280\u5927\u5b66\uff0c\u6e56\u5357\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Lehigh University, Bethlehem, United States",
+      "name_cn": "\u5229\u54c8\u4f0a\u5927\u5b66\uff0c\u4f2f\u5229\u6052\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "National Taiwan University, Taipei, Taiwan",
+      "name_cn": "\u56fd\u7acb\u53f0\u6e7e\u5927\u5b66\uff0c\u53f0\u5317\uff0c\u53f0\u6e7e"
+    },
+    {
+      "name": "SenseTime Group Limited, Beijing, China",
+      "name_cn": "SenseTime Group Limited\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "University of Maryland College Park, College Park; MD; 20742, United States",
+      "name_cn": "\u9a6c\u91cc\u5170\u5927\u5b66\u5e15\u514b\u5206\u6821\uff0c\u5b66\u9662\u516c\u56ed; MD; 20742\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Google Inc., Mountain View, United States",
+      "name_cn": "Google Inc.\uff0cMountain View\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Parthenope University of Naples, Napoli, Italy",
+      "name_cn": "\u90a3\u4e0d\u52d2\u65af\u5e15\u53f0\u519c\u5927\u5b66\uff0c\u90a3\u4e0d\u52d2\u65af\uff0c\u610f\u5927\u5229"
+    },
+    {
+      "name": "Australian Centre of Excellence for Robotic Vision, 2 George Street, Brisbane; 4001, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u673a\u5668\u4eba\u89c6\u89c9\u5353\u8d8a\u4e2d\u5fc3\uff0c\u5e03\u91cc\u65af\u73ed\u4e54\u6cbb\u88572\u53f7; 4001\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "Microsoft Research Asia, Beijing, China",
+      "name_cn": "\u5fae\u8f6f\u4e9a\u6d32\u7814\u7a76\u9662\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "National Engineering Laboratory for Big Data Software, Beijing National Research Center for Information Science and Technology, Beijing, China",
+      "name_cn": "\u5317\u4eac\u56fd\u5bb6\u4fe1\u606f\u79d1\u5b66\u4e0e\u6280\u672f\u7814\u7a76\u4e2d\u5fc3\u5927\u6570\u636e\u8f6f\u4ef6\u56fd\u5bb6\u5de5\u7a0b\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Beijing University of Posts and Telecommunications, Beijing, China",
+      "name_cn": "\u5317\u4eac\u90ae\u7535\u5927\u5b66\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Tencent AI Lab, Seattle; WA, United States",
+      "name_cn": "\u897f\u96c5\u56fe\u817e\u8bafAI\u5b9e\u9a8c\u5ba4;\u534e\u76db\u987f\u5dde\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Shanghai Institute of Microsystem and Information Technology, CAS, Shanghai; 200050, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u4e0a\u6d77\u5fae\u7cfb\u7edf\u4e0e\u4fe1\u606f\u6280\u672f\u7814\u7a76\u6240\uff0c\u4e0a\u6d77; 200050\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Princeton University, Princeton, United States",
+      "name_cn": "\u666e\u6797\u65af\u987f\u5927\u5b66\uff0c\u666e\u6797\u65af\u987f\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Deepwise AI Lab, Beijing, China",
+      "name_cn": "Deepwise\u4eba\u5de5\u667a\u80fd\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Alibaba Group, Hangzhou, China",
+      "name_cn": "\u963f\u91cc\u5df4\u5df4\u96c6\u56e2\uff0c\u4e2d\u56fd\u676d\u5dde"
+    },
+    {
+      "name": "Australian Centre for Robotic Vision, Brisbane, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u5e03\u91cc\u65af\u73ed\u6fb3\u5927\u5229\u4e9a\u673a\u5668\u4eba\u89c6\u89c9\u4e2d\u5fc3"
+    },
+    {
+      "name": "University of Southern Denmark, Odense, Denmark",
+      "name_cn": "\u5357\u4e39\u9ea6\u5927\u5b66\uff0c\u4e39\u9ea6\u6b27\u767b\u585e"
+    },
+    {
+      "name": "National Engineering Laboratory for Visual Information Processing and Application, Xi\u2019an Jiaotong University, 99 Yanxiang Road, Xi\u2019an; Shaanxi; 710054, China",
+      "name_cn": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u89c6\u89c9\u4fe1\u606f\u5904\u7406\u4e0e\u5e94\u7528\u56fd\u5bb6\u5de5\u7a0b\u5b9e\u9a8c\u5ba4\uff0c\u897f\u5b89\u5e02\u71d5\u7fd4\u8def99\u53f7;\u9655\u897f; 710054\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Pinscreen, Santa Monica, United States",
+      "name_cn": "Pinscreen\uff0c\u5723\u83ab\u5c3c\u5361\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Toyota Technological Institute at Chicago, Chicago; IL; 60637, United States",
+      "name_cn": "\u829d\u52a0\u54e5\u829d\u52a0\u54e5\u4e30\u7530\u6280\u672f\u5b66\u9662; IL; 60637\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "University of Isfahan, Isfahan, Iran",
+      "name_cn": "\u4f0a\u65af\u6cd5\u7f55\u5927\u5b66\uff0c\u4f0a\u65af\u6cd5\u7f55\uff0c\u4f0a\u6717"
+    },
+    {
+      "name": "The Chinese University of Hong Kong, Shatin, China",
+      "name_cn": "\u4e2d\u56fd\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\u6c99\u7530"
+    },
+    {
+      "name": "Nanjing University of Science and Technology, Nanjing; Jiangsu; 210094, China",
+      "name_cn": "\u5357\u4eac\u7406\u5de5\u5927\u5b66\uff0c\u5357\u4eac;\u6c5f\u82cf; 210094\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "College of Computer Science, Nankai University, Tianjin, China",
+      "name_cn": "\u5357\u5f00\u5927\u5b66\u8ba1\u7b97\u673a\u5b66\u9662\uff0c\u5929\u6d25\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "The University of Hong Kong, Pok Fu Lam, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u8584\u6276\u6797\u9999\u6e2f\u5927\u5b66"
+    },
+    {
+      "name": "Tel-Aviv University, Tel Aviv, Israel",
+      "name_cn": "\u7279\u62c9\u7ef4\u592b\u5927\u5b66\uff0c\u7279\u62c9\u7ef4\u592b\uff0c\u4ee5\u8272\u5217"
+    },
+    {
+      "name": "Dalian University, Dalian, China",
+      "name_cn": "\u5927\u8fde\u5927\u5b66\uff0c\u4e2d\u56fd\u5927\u8fde"
+    },
+    {
+      "name": "Ocean University of China, Qingdao; 266071, China",
+      "name_cn": "\u4e2d\u56fd\u6d77\u6d0b\u5927\u5b66\uff0c\u9752\u5c9b; 266071\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Baidu Inc., Beijing, China",
+      "name_cn": "\u767e\u5ea6\u516c\u53f8\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Duke University, Durham; NC, United States",
+      "name_cn": "\u8fbe\u52d2\u59c6\u675c\u514b\u5927\u5b66; NC\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "School of Information Science and Technology, University of Science and Technology of China, Hefei, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\u4fe1\u606f\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\uff0c\u5408\u80a5\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Owlii Inc., Beijing, China",
+      "name_cn": "Owlii Inc.\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "University of Science and Technology of China, Hefei, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\uff0c\u5408\u80a5\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Electrical and Electronics Engineering, Nanyang Technological University, Singapore, Singapore",
+      "name_cn": "\u65b0\u52a0\u5761\u5357\u6d0b\u7406\u5de5\u5927\u5b66\u7535\u6c14\u4e0e\u7535\u5b50\u5de5\u7a0b\u5b66\u9662"
+    },
+    {
+      "name": "SIAT-SenseTime Joint Lab, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "SIAT-SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u6df1\u5733\u5148\u8fdb\u6280\u672f\u7814\u7a76\u9662\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "SJTU-UCLA Joint Center for Machine Perception and Inference, Shanghai Jiao Tong University, Shanghai; 200240, China",
+      "name_cn": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u673a\u5668\u4eba\u77e5\u8bc6\u4e0e\u63a8\u7406\u8054\u5408\u4e2d\u5fc3; 200240\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Qihoo 360 AI Institute, Beijing, China",
+      "name_cn": "\u5947\u864e360\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u6240\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Kyiv Polytechnic Institute, Kiev, Ukraine",
+      "name_cn": "\u57fa\u8f85\u7406\u5de5\u5b66\u9662\uff0c\u57fa\u8f85\uff0c\u4e4c\u514b\u5170"
+    },
+    {
+      "name": "FORTH Heraklion, Heraklion, Greece",
+      "name_cn": "\u4f0a\u62c9\u514b\u5229\u7fc1\uff0c\u4f0a\u62c9\u514b\u5229\u7fc1\uff0c\u5e0c\u814a"
+    },
+    {
+      "name": "School of Computer Science, Wuhan University, Wuhan, China",
+      "name_cn": "\u6b66\u6c49\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662\uff0c\u6b66\u6c49"
+    },
+    {
+      "name": "Termisk Systemteknik AB, Link\u00f6ping, Sweden",
+      "name_cn": "Termisk Systemteknik AB\uff0cLink\u00f6ping\uff0c\u745e\u5178"
+    },
+    {
+      "name": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore, Singapore",
+      "name_cn": "\u65b0\u52a0\u5761\u56fd\u7acb\u5927\u5b66\u7535\u5b50\u4e0e\u8ba1\u7b97\u673a\u5de5\u7a0b\u7cfb\uff0c\u65b0\u52a0\u5761\uff0c\u65b0\u52a0\u5761"
+    },
+    {
+      "name": "Institute of Artificial Intelligence and Robotics, Xi\u2019an Jiaotong University, Xi\u2019an, China",
+      "name_cn": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u4eba\u5de5\u667a\u80fd\u4e0e\u673a\u5668\u4eba\u7814\u7a76\u6240\uff0c\u897f\u5b89"
+    },
+    {
+      "name": "SenseTime Computer Vision Research Group, The University of Sydney, Sydney, Australia",
+      "name_cn": "SenseTime\u8ba1\u7b97\u673a\u89c6\u89c9\u7814\u7a76\u5c0f\u7ec4\uff0c\u6fb3\u5927\u5229\u4e9a\u6089\u5c3c\u6089\u5c3c\u5927\u5b66"
+    },
+    {
+      "name": "Facebook, Menlo Park, United States",
+      "name_cn": "Facebook\uff0c\u95e8\u6d1b\u5e15\u514b\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Huazhong University of Science and Technology, Wuhan, China",
+      "name_cn": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66\uff0c\u6b66\u6c49\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "UBTECH Sydney AI Centre, SIT, FEIT, University of Sydney, Sydney, Australia",
+      "name_cn": "UBTECH\u6089\u5c3cAI\u4e2d\u5fc3\uff0cSIT\uff0cFEIT\uff0c\u6089\u5c3c\u5927\u5b66\uff0c\u6089\u5c3c\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "Tel Aviv University, Tel Aviv, Israel",
+      "name_cn": "\u7279\u62c9\u7ef4\u592b\u5927\u5b66\uff0c\u4ee5\u8272\u5217\u7279\u62c9\u7ef4\u592b"
+    },
+    {
+      "name": "Beijing Laboratory of Intelligent Information Technology, School of Computer Science and Technology, Beijing Institute of Technology, Beijing; 100081, China",
+      "name_cn": "\u5317\u4eac\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\u5317\u4eac\u667a\u80fd\u4fe1\u606f\u6280\u672f\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac; 100081\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Infinia ML, Inc., Durham, United States",
+      "name_cn": "Infinia ML\uff0cInc.\uff0cDurham\uff0cUnited States"
+    },
+    {
+      "name": "ShanghaiTech University, Shanghai; 200031, China",
+      "name_cn": "\u4e0a\u6d77\u79d1\u6280\u5927\u5b66; 200031\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "UC Merced, Merced, United States",
+      "name_cn": "UC Merced\uff0c\u9ed8\u585e\u5fb7\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "School of Computer, National University of Defense Technology Changsha, Hunan; 410073, China",
+      "name_cn": "\u6e56\u5357\u957f\u6c99\u56fd\u9632\u79d1\u6280\u5927\u5b66\u8ba1\u7b97\u673a\u5b66\u9662; 410073\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "NVIDIA AI Technology Center, Westford, United States",
+      "name_cn": "NVIDIA AI\u6280\u672f\u4e2d\u5fc3\uff0c\u7f8e\u56fd\u97e6\u65af\u7279\u798f\u5fb7"
+    },
+    {
+      "name": "Facebook AI Research (FAIR), Menlo Park, United States",
+      "name_cn": "Facebook AI Research\uff08FAIR\uff09\uff0c\u7f8e\u56fd\u95e8\u6d1b\u5e15\u514b"
+    },
+    {
+      "name": "Google Inc, Mountain View; CA, United States",
+      "name_cn": "\u8c37\u6b4c\u516c\u53f8\uff0c\u5c71\u666f\u57ce; CA\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Computer Science, University of Kentucky, Lexington, United States",
+      "name_cn": "\u7f8e\u56fd\u5217\u514b\u661f\u6566\u80af\u5854\u57fa\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb"
+    },
+    {
+      "name": "Shanghai Jiao Tong University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "JD AI Research, Beijing, China",
+      "name_cn": "JD AI Research\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "National Tsing Hua University, Taiwan",
+      "name_cn": "\u56fd\u7acb\u6e05\u534e\u5927\u5b66\uff0c\u53f0\u6e7e"
+    },
+    {
+      "name": "Tencent AI lab, Shenzhen, China",
+      "name_cn": "\u817e\u8bafAI\u5b9e\u9a8c\u5ba4\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "UBTECH Sydney AI Centre, SIT, FEIT, University of Sydney, Camperdown, Australia",
+      "name_cn": "UBTECH\u6089\u5c3cAI\u4e2d\u5fc3\uff0cSIT\uff0cFEIT\uff0c\u6089\u5c3c\u5927\u5b66\uff0cCamperdown\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "School of Computing and Information Technology, University of Wollongong, Wollongong; NSW; 2500, Australia",
+      "name_cn": "\u5367\u9f99\u5c97\u5927\u5b66\u8ba1\u7b97\u4e0e\u4fe1\u606f\u6280\u672f\u5b66\u9662\uff0c\u5367\u9f99\u5c97;\u65b0\u5357\u5a01\u5c14\u58eb\u5dde; 2500\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "Plex-VR, Baton Rouge; LA, United States",
+      "name_cn": "Plex-VR\uff0cBaton Rouge;\u6d1b\u6749\u77f6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "University of Ljubljana, Ljubljana, Slovenia",
+      "name_cn": "\u5362\u5e03\u5c14\u96c5\u90a3\u5927\u5b66\uff0c\u5362\u5e03\u5c14\u96c5\u90a3\uff0c\u65af\u6d1b\u6587\u5c3c\u4e9a"
+    },
+    {
+      "name": "School of Electrical Engineering and Automation, Harbin Institute of Technology, Harbin, China",
+      "name_cn": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66\u7535\u6c14\u5de5\u7a0b\u4e0e\u81ea\u52a8\u5316\u5b66\u9662\uff0c\u54c8\u5c14\u6ee8"
+    },
+    {
+      "name": "Face++, Megvii Inc., Beijing, China",
+      "name_cn": "Face ++\uff0cMegvii Inc.\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Visual Computing Group, University of Victoria, VIC, Canada",
+      "name_cn": "\u52a0\u62ff\u5927\u7ef4\u591a\u5229\u4e9a\u5dde\u7ef4\u591a\u5229\u4e9a\u5927\u5b66\u89c6\u89c9\u8ba1\u7b97\u7ec4"
+    },
+    {
+      "name": "Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention, Shanghai; 200032, China",
+      "name_cn": "\u4e0a\u6d77\u5e02\u533b\u5b66\u5f71\u50cf\u8ba1\u7b97\u4e0e\u8ba1\u7b97\u673a\u8f85\u52a9\u5e72\u9884\u91cd\u70b9\u5b9e\u9a8c\u5ba4; 200032\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Information and Communication Engineering, Dalian University of Technology, Dalian, China",
+      "name_cn": "\u5927\u8fde\u7406\u5de5\u5927\u5b66\u4fe1\u606f\u4e0e\u901a\u4fe1\u5de5\u7a0b\u5b66\u9662\uff0c\u5927\u8fde\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Toutiao AI Lab, Beijing, China",
+      "name_cn": "Toutiao AI Lab\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Electrical and Computer Engineering, Texas A&M University, College Station, United States",
+      "name_cn": "\u7535\u6c14\u548c\u8ba1\u7b97\u673a\u5de5\u7a0b\uff0c\u5fb7\u514b\u8428\u65afA\uff06M\u5927\u5b66\uff0c\u5927\u5b66\u57ce\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Toyota Research Institute, Los Altos, United States",
+      "name_cn": "\u4e30\u7530\u7814\u7a76\u6240\uff0c\u6d1b\u65af\u963f\u5c14\u6258\u65af\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Computer Science and Technology, Beijing National Research Center for Information Science and Technology (BNRist), Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb\uff0c\u5317\u4eac\u56fd\u5bb6\u4fe1\u606f\u79d1\u5b66\u4e0e\u6280\u672f\u7814\u7a76\u4e2d\u5fc3\uff08BNRist\uff09\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "College of Electrical and Information Engineering, Hunan University, Changsha; 410006, China",
+      "name_cn": "\u6e56\u5357\u5927\u5b66\u7535\u6c14\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662\uff0c\u957f\u6c99; 410006\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "NVIDIA, Westford, United States",
+      "name_cn": "NVIDIA\uff0cWestford\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Nankai University, Tianjin, China",
+      "name_cn": "\u5357\u5f00\u5927\u5b66\uff0c\u5929\u6d25\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Dalian University of Technology, Dalian, China",
+      "name_cn": "\u5927\u8fde\u7406\u5de5\u5927\u5b66\uff0c\u4e2d\u56fd\u5927\u8fde"
+    },
+    {
+      "name": "Department of Computer Science, The Johns Hopkins University, Baltimore, United States",
+      "name_cn": "\u7f8e\u56fd\u5df4\u5c14\u7684\u6469\u7ea6\u7ff0\u970d\u666e\u91d1\u65af\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb"
+    },
+    {
+      "name": "Aselsan Research Center, Ankara, Turkey",
+      "name_cn": "Aselsan\u7814\u7a76\u4e2d\u5fc3\uff0c\u571f\u8033\u5176\u5b89\u5361\u62c9"
+    },
+    {
+      "name": "Marquette University, Milwaukee, United States",
+      "name_cn": "\u9a6c\u51ef\u7279\u5927\u5b66\uff0c\u5bc6\u5c14\u6c83\u57fa\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "City University of Hong Kong, Kowloon, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e5d\u9f99\u57ce\u5e02\u5927\u5b66"
+    },
+    {
+      "name": "Shanghai Key Lab of Intelligent Information Processing, School of Computer Science, Fudan University, Shanghai, China",
+      "name_cn": "\u590d\u65e6\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662\u4e0a\u6d77\u5e02\u667a\u80fd\u4fe1\u606f\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China",
+      "name_cn": "\u7535\u5b50\u79d1\u6280\u5927\u5b66\u4fe1\u606f\u4e0e\u901a\u4fe1\u5de5\u7a0b\u5b66\u9662\uff0c\u4e2d\u56fd\u6210\u90fd"
+    },
+    {
+      "name": "Megvii Inc. (Face++), Beijing, China",
+      "name_cn": "Megvii Inc.\uff08Face ++\uff09\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u6e05\u6c34\u6e7e\u9999\u6e2f\u79d1\u6280\u5927\u5b66"
+    },
+    {
+      "name": "GE Global Research, Niskayuna, United States",
+      "name_cn": "GE Global Research\uff0c\u7f8e\u56fdNiskayuna"
+    },
+    {
+      "name": "School of Computer Science, The University of Adelaide, Adelaide, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u963f\u5fb7\u83b1\u5fb7\u963f\u5fb7\u83b1\u5fb7\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662"
+    },
+    {
+      "name": "Google, Mountain View; CA, United States",
+      "name_cn": "\u8c37\u6b4c\uff0c\u5c71\u666f; CA\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Horizon Robotics, Inc., Beijing, China",
+      "name_cn": "Horizo\u200b\u200bn Robotics\uff0cInc\u3002\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Data61/CSIRO, Alexandria, Australia",
+      "name_cn": "Data61 / CSIRO\uff0c\u4e9a\u5386\u5c71\u5927\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "UBTECH Sydney AI Centre and SIT, FEIT, The University of Sydney, Sydney, Australia",
+      "name_cn": "UBTECH\u6089\u5c3cAI\u4e2d\u5fc3\u548cSIT\uff0cFEIT\uff0c\u6089\u5c3c\u5927\u5b66\uff0c\u6089\u5c3c\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "School of Electronic and Information Engineering, Xi\u2019an Jiaotong University, 28 West Xianning Road, Xi\u2019an; Shaanxi; 710049, China",
+      "name_cn": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u7535\u5b50\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662\uff0c\u897f\u5b89\u5e02\u54b8\u5b81\u897f\u8def28\u53f7;\u9655\u897f; 710049\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Computer Science and Software Engineering, East China Normal University, Shanghai, China",
+      "name_cn": "\u534e\u4e1c\u5e08\u8303\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u8f6f\u4ef6\u5de5\u7a0b\u5b66\u9662\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5927\u5b66\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of IoT Engineering, Jiangnan University, 1800 Lihu Avenue, Wuxi, China",
+      "name_cn": "\u6c5f\u5357\u5927\u5b66\u7269\u8054\u7f51\u5de5\u7a0b\u5b66\u9662\uff0c\u65e0\u9521\u5e02\u8354\u6e56\u5927\u90531800\u53f7"
+    },
+    {
+      "name": "MVTec Software, Munich, Germany",
+      "name_cn": "MVTec\u8f6f\u4ef6\uff0c\u5fb7\u56fd\u6155\u5c3c\u9ed1"
+    },
+    {
+      "name": "Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\u4fe1\u606f\u5de5\u7a0b\u7cfb\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "Hangzhou Dianzi University, Hangzhou, China",
+      "name_cn": "\u676d\u5dde\u7535\u5b50\u79d1\u6280\u5927\u5b66\uff0c\u676d\u5dde\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China",
+      "name_cn": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\uff0c\u54c8\u5c14\u6ee8"
+    },
+    {
+      "name": "Shenzhen Zhuke Innovation Technology (Altizure), Shenzhen, China",
+      "name_cn": "\u6df1\u5733\u5353\u79d1\u521b\u65b0\u79d1\u6280\uff08Altizure\uff09\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Technical University of Munich, Munich, Germany",
+      "name_cn": "\u6155\u5c3c\u9ed1\u6280\u672f\u5927\u5b66\uff0c\u5fb7\u56fd\u6155\u5c3c\u9ed1"
+    },
+    {
+      "name": "Beijing Institute of Technology, Beijing, China",
+      "name_cn": "\u5317\u4eac\u7406\u5de5\u5927\u5b66\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "UC Irvine, Irvine, United States",
+      "name_cn": "\u52a0\u5dde\u5927\u5b66\u6b27\u6587\u5206\u6821\uff0c\u7f8e\u56fd\u6b27\u6587\u5206\u6821"
+    },
+    {
+      "name": "Technische Universitat M\u00fcnchen, Munich, Germany",
+      "name_cn": "\u6155\u5c3c\u9ed1\u5de5\u4e1a\u5927\u5b66\uff0c\u5fb7\u56fd\u6155\u5c3c\u9ed1"
+    },
+    {
+      "name": "Tencent YouTu Lab, Shanghai, China",
+      "name_cn": "\u817e\u8bafYouTu\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "Department of Computer Science, National Chiao Tung University, Taiwan",
+      "name_cn": "\u53f0\u6e7e\u56fd\u7acb\u4ea4\u901a\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb"
+    },
+    {
+      "name": "CRCV, University of Central Florida, Orlando; FL, United States",
+      "name_cn": "CRCV\uff0c\u4f5b\u7f57\u91cc\u8fbe\u4e2d\u4f5b\u7f57\u91cc\u8fbe\u5927\u5b66;\u4f5b\u7f57\u91cc\u8fbe\u5dde\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "University at Albany, Albany, United States",
+      "name_cn": "\u5965\u5c14\u5df4\u5c3c\u5927\u5b66\uff0c\u5965\u5c14\u5df4\u5c3c\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Electrical Engineering, Columbia University, New York; NY, United States",
+      "name_cn": "\u7ebd\u7ea6\u54e5\u4f26\u6bd4\u4e9a\u5927\u5b66\u7535\u6c14\u5de5\u7a0b\u7cfb;\u7ebd\u7ea6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Departmant of Electrical Engineering, National Tsing Hua University, Hsinchu, Taiwan",
+      "name_cn": "\u56fd\u7acb\u6e05\u534e\u5927\u5b66\u7535\u5b50\u5de5\u7a0b\u7cfb\uff0c\u53f0\u6e7e\u65b0\u7af9"
+    },
+    {
+      "name": "Birkbeck College, University of London, London, United Kingdom",
+      "name_cn": "Birkbeck\u5b66\u9662\uff0c\u4f26\u6566\u5927\u5b66\uff0c\u4f26\u6566\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "University at Albany, State University of New York, New York City; NY, United States",
+      "name_cn": "\u7ebd\u7ea6\u5dde\u7acb\u5927\u5b66\u5965\u5c14\u5df4\u5c3c\u5206\u6821\uff0c\u7ebd\u7ea6;\u7ebd\u7ea6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "University of Ottawa, Ottawa, Canada",
+      "name_cn": "\u6e25\u592a\u534e\u5927\u5b66\uff0c\u52a0\u62ff\u5927\u6e25\u592a\u534e"
+    },
+    {
+      "name": "College of Intellengence and Computing, Tianjin University, Tianjin, China",
+      "name_cn": "\u5929\u6d25\u5927\u5b66\u653b\u575a\u4e0e\u8ba1\u7b97\u5b66\u9662\uff0c\u5929\u6d25\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "The University of Queensland, Brisbane, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u5e03\u91cc\u65af\u73ed\u6606\u58eb\u5170\u5927\u5b66"
+    },
+    {
+      "name": "Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u7ea2\u78e1\u9999\u6e2f\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb"
+    },
+    {
+      "name": "State Key Laboratory of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Department of Computer Science, Tsinghua University, Beijing; 100084, China",
+      "name_cn": "\u5317\u4eac\u56fd\u5bb6\u4fe1\u606f\u79d1\u5b66\u4e0e\u6280\u672f\u7814\u7a76\u4e2d\u5fc3\uff0c\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\u667a\u80fd\u6280\u672f\u4e0e\u7cfb\u7edf\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac; 100084\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, Beijing; 100049, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5927\u5b66\uff0c\u5317\u4eac; 100049\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Beijing, China",
+      "name_cn": "\u667a\u80fd\u611f\u77e5\u4e0e\u8ba1\u7b97\u7814\u7a76\u4e2d\u5fc3\uff08CRIPAC\uff09\uff0c\u56fd\u5bb6\u6a21\u5f0f\u8bc6\u522b\u5b9e\u9a8c\u5ba4\uff08NLPR\uff09\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Hacettepe University, Ankara, Turkey",
+      "name_cn": "Hacettepe\u5927\u5b66\uff0c\u5b89\u5361\u62c9\uff0c\u571f\u8033\u5176"
+    },
+    {
+      "name": "Czech Technical University, Praha, Czech Republic",
+      "name_cn": "\u6377\u514b\u6280\u672f\u5927\u5b66\uff0c\u5e03\u62c9\u683c\uff0c\u6377\u514b\u5171\u548c\u56fd"
+    },
+    {
+      "name": "Department of Computer Science, University of Rochester, Rochester, United States",
+      "name_cn": "\u7f8e\u56fd\u7f57\u5207\u65af\u7279\u7f57\u5f7b\u65af\u7279\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb"
+    },
+    {
+      "name": "ECIT, Queens University of Belfast, Belfast, United Kingdom",
+      "name_cn": "ECIT\uff0c\u8d1d\u5c14\u6cd5\u65af\u7279\u5973\u738b\u5927\u5b66\uff0c\u8d1d\u5c14\u6cd5\u65af\u7279\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "ByteDance AI Lab, Menlo Park, United States",
+      "name_cn": "ByteDance AI Lab\uff0c\u7f8e\u56fd\u95e8\u6d1b\u5e15\u514b"
+    },
+    {
+      "name": "TU Dresden, Dresden, Germany",
+      "name_cn": "\u5fb7\u7d2f\u65af\u987f\u5fb7\u7d2f\u65af\u987f\uff0c\u5fb7\u56fd\u5fb7\u7d2f\u65af\u987f"
+    },
+    {
+      "name": "University of Verona, Verona, Italy",
+      "name_cn": "\u7ef4\u7f57\u7eb3\u5927\u5b66\uff0c\u7ef4\u7f57\u7eb3\uff0c\u610f\u5927\u5229"
+    },
+    {
+      "name": "EIS, Huazhong University of Science and Technology, Wuhan, China",
+      "name_cn": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66EIS\uff0c\u4e2d\u56fd\u6b66\u6c49"
+    },
+    {
+      "name": "Harbin Institute of Technology, Weihai, China",
+      "name_cn": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66\uff0c\u4e2d\u56fd\u5a01\u6d77"
+    },
+    {
+      "name": "School of Electrical and Information Engineering, University of Sydney, Sydney; NSW; 2006, Australia",
+      "name_cn": "\u6089\u5c3c\u5927\u5b66\u7535\u6c14\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662;\u65b0\u5357\u5a01\u5c14\u58eb\u5dde; 2006\u5e74\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "Horizon Robotics Inc., Beijing, China",
+      "name_cn": "Horizo\u200b\u200bn Robotics Inc.\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "The Hebrew University of Jerusalem, Jerusalem, Israel",
+      "name_cn": "\u8036\u8def\u6492\u51b7\u5e0c\u4f2f\u6765\u5927\u5b66\uff0c\u8036\u8def\u6492\u51b7\uff0c\u4ee5\u8272\u5217"
+    },
+    {
+      "name": "Johns Hopkins University, Baltimore, United States",
+      "name_cn": "\u7ea6\u7ff0\u65af\u00b7\u970d\u666e\u91d1\u65af\u5927\u5b66\uff0c\u7f8e\u56fd\u5df4\u5c14\u7684\u6469"
+    },
+    {
+      "name": "Macau University of Science and Technology, China",
+      "name_cn": "\u6fb3\u95e8\u79d1\u6280\u5927\u5b66\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Nanjing University of Science and Technology, Nanjing, China",
+      "name_cn": "\u5357\u4eac\u7406\u5de5\u5927\u5b66\uff0c\u5357\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Northwestern Polytechnical University, Xi\u2019an, China",
+      "name_cn": "\u897f\u5317\u5de5\u4e1a\u5927\u5b66\uff0c\u897f\u5b89\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Computer Science, Carnegie Mellon University, Pittsburgh, United States",
+      "name_cn": "\u7f8e\u56fd\u5339\u5179\u5821\u5361\u5185\u57fa\u6885\u9686\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662"
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, Huairou, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5927\u5b66\uff0c\u6000\u67d4\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering, Beihang University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u9662\u865a\u62df\u73b0\u5b9e\u6280\u672f\u4e0e\u7cfb\u7edf\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "School of Software Engineering, South China University of Technology, Guangzhou, China",
+      "name_cn": "\u534e\u5357\u7406\u5de5\u5927\u5b66\u8f6f\u4ef6\u5b66\u9662\uff0c\u5e7f\u5dde"
+    },
+    {
+      "name": "CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong, Shatin, Hong Kong",
+      "name_cn": "CUHK-SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\uff0c\u9999\u6e2f\u6c99\u7530"
+    },
+    {
+      "name": "TU Munich, Munich, Germany",
+      "name_cn": "\u5fb7\u56fd\u6155\u5c3c\u9ed1\u6155\u5c3c\u9ed1\u5927\u5b66"
+    },
+    {
+      "name": "CUHK-SenseTime Joint Laboratory, The Chinese University of Hong Kong, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\u9999\u6e2f\u4e2d\u6587\u5927\u5b66SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4"
+    },
+    {
+      "name": "The University of Hong Kong, Pokfulam, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u8584\u6276\u6797\u9999\u6e2f\u5927\u5b66"
+    },
+    {
+      "name": "Beijing Visytem Co. Ltd, Haidian, China",
+      "name_cn": "\u5317\u4eacVisytem\u6709\u9650\u516c\u53f8\uff0c\u4e2d\u56fd\u6d77\u6dc0"
+    },
+    {
+      "name": "Departmant of Computer Science, National Tsing Hua University, Hsinchu, Taiwan",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\uff0c\u53f0\u6e7e\u65b0\u7af9"
+    },
+    {
+      "name": "Google Cloud, Merced, United States",
+      "name_cn": "Google Cloud\uff0c\u9ed8\u585e\u5fb7\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Face++, Beijing, China",
+      "name_cn": "Face ++\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "SenseTime Research, Beijing, China",
+      "name_cn": "SenseTime Research\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Louisiana State University, Baton Rouge; LA, United States",
+      "name_cn": "\u8def\u6613\u65af\u5b89\u90a3\u5dde\u7acb\u5927\u5b66\uff0c\u5df4\u541e\u9c81\u65e5;\u6d1b\u6749\u77f6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "University of California, Merced, United States",
+      "name_cn": "\u7f8e\u56fd\u52a0\u5dde\u5927\u5b66\u9ed8\u585e\u5fb7\u5206\u6821"
+    },
+    {
+      "name": "KAUST, Thuwal, Saudi Arabia",
+      "name_cn": "KAUST\uff0cThuwal\uff0c\u6c99\u7279\u963f\u62c9\u4f2f"
+    },
+    {
+      "name": "Center for Future Media and School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China",
+      "name_cn": "\u4e2d\u56fd\u7535\u5b50\u79d1\u6280\u5927\u5b66\u672a\u6765\u5a92\u4f53\u4e2d\u5fc3\u548c\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u9662\uff0c\u4e2d\u56fd\u6210\u90fd"
+    },
+    {
+      "name": "Shandong University, Jinan, China",
+      "name_cn": "\u5c71\u4e1c\u5927\u5b66\uff0c\u6d4e\u5357\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "The Department of Automation, Tsinghua University, Beijing; 100084, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u81ea\u52a8\u5316\u7cfb\uff0c\u5317\u4eac; 100084\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Department of Computer Science, State Key Laboratory of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\uff0c\u667a\u80fd\u6280\u672f\u4e0e\u7cfb\u7edf\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\u56fd\u5bb6\u4fe1\u606f\u79d1\u5b66\u4e0e\u6280\u672f\u7814\u7a76\u4e2d\u5fc3\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "Alibaba Damo Academy, Alibaba Group, Hangzhou, China",
+      "name_cn": "\u963f\u91cc\u5df4\u5df4\u8fbe\u6469\u5b66\u9662\uff0c\u963f\u91cc\u5df4\u5df4\u96c6\u56e2\uff0c\u4e2d\u56fd\u676d\u5dde"
+    },
+    {
+      "name": "Samsung Telecommunication Research Institute, Beijing, China",
+      "name_cn": "\u4e09\u661f\u7535\u4fe1\u7814\u7a76\u9662\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "State Key Laboratory of Integrated Services Networks, Xidian University, Xi\u2019an, China",
+      "name_cn": "\u897f\u5b89\u7535\u5b50\u79d1\u6280\u5927\u5b66\u7efc\u5408\u4e1a\u52a1\u7f51\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u897f\u5b89"
+    },
+    {
+      "name": "Clova AI Research, NAVER Corporation, Bundang-gu, Korea, Republic of",
+      "name_cn": "Clova AI Research\uff0cNAVER Corporation\uff0cBundang-gu\uff0cKorea\uff0cRepublic of"
+    },
+    {
+      "name": "Alibaba-Zhejiang University Joint Institute of Frontier Technologies, Hangzhou, China",
+      "name_cn": "\u963f\u91cc\u5df4\u5df4 - \u6d59\u6c5f\u5927\u5b66\u8fb9\u7586\u6280\u672f\u8054\u5408\u7814\u7a76\u6240\uff0c\u4e2d\u56fd\u676d\u5dde"
+    },
+    {
+      "name": "Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, United States",
+      "name_cn": "\u7f8e\u56fd\u5339\u5179\u5821\u5339\u5179\u5821\u5927\u5b66\u751f\u7269\u533b\u5b66\u4fe1\u606f\u5b66\u7cfb"
+    },
+    {
+      "name": "Xi\u2019an Jiaotong University, Xi\u2019an; 710049, China",
+      "name_cn": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\uff0c\u897f\u5b89; 710049\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "CUHK - SenseTime Joint Lab, The Chinese University of Hong Kong, Shatin, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b66SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u9999\u6e2f\u6c99\u7530\uff0c\u9999\u6e2f\u4e2d\u6587\u5927\u5b66"
+    },
+    {
+      "name": "SJTU-UCLA Joint Center for Machine Perception and Inference, Shanghai Jiao Tong University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u673a\u5668\u4eba\u611f\u77e5\u4e0e\u63a8\u7406\u8054\u5408\u4e2d\u5fc3\uff0c\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\uff0c\u4e0a\u6d77\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "EECS, Peking University, Beijing, China",
+      "name_cn": "EECS\uff0c\u5317\u4eac\u5927\u5b66\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "The University of Texas at Austin, Austin; TX, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u5965\u65af\u6c40\u5206\u6821; TX\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Key Laboratory of Electromagnetic Space Information, University of Science and Technology of China, The Chinese Academy of Sciences, Hefei, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\u7535\u78c1\u7a7a\u95f4\u4fe1\u606f\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\uff0c\u5408\u80a5\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, CAS, Beijing; 100190, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u8ba1\u7b97\u6280\u672f\u7814\u7a76\u6240\u667a\u80fd\u4fe1\u606f\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac; 100190\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "CVTE Research, Guangzhou, China",
+      "name_cn": "CVTE Research\uff0c\u4e2d\u56fd\u5e7f\u5dde"
+    },
+    {
+      "name": "Harbin Institute of Technology, Weihai; 264200, China",
+      "name_cn": "\u5a01\u6d77\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66; 264200\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "International Center for AI and Robot Autonomy (CARA), Los Angeles, United States",
+      "name_cn": "\u56fd\u9645\u4eba\u5de5\u667a\u80fd\u548c\u673a\u5668\u4eba\u81ea\u6cbb\u4e2d\u5fc3\uff08CARA\uff09\uff0c\u7f8e\u56fd\u6d1b\u6749\u77f6"
+    },
+    {
+      "name": "National Tsing -Hua University, Hsinchu, Taiwan",
+      "name_cn": "\u56fd\u7acb\u9752\u534e\u5927\u5b66\uff0c\u53f0\u6e7e\u65b0\u7af9"
+    },
+    {
+      "name": "MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai, China",
+      "name_cn": "\u6559\u80b2\u90e8\u4eba\u5de5\u667a\u80fd\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u6240\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "Machine Learning Department, Carnegie Mellon University, Pittsburgh, United States",
+      "name_cn": "\u673a\u5668\u5b66\u4e60\u7cfb\uff0c\u5361\u5185\u57fa\u6885\u9686\u5927\u5b66\uff0c\u7f8e\u56fd\u5339\u5179\u5821"
+    },
+    {
+      "name": "Department of Computer Science and Engineering, University of South Carolina, Columbia; SC, United States",
+      "name_cn": "\u54e5\u4f26\u6bd4\u4e9a\u5357\u5361\u7f57\u6765\u7eb3\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u7cfb; SC\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Cardiff University, Cardiff; CF243AA, United Kingdom",
+      "name_cn": "\u52a0\u7684\u592b\u5927\u5b66\u5361\u8fea\u592b; CF243AA\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, Shanghai, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u4e0a\u6d77\u5fae\u7cfb\u7edf\u4e0e\u4fe1\u606f\u6280\u672f\u7814\u7a76\u6240\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "Computer Vision Laboratory, ETH Zurich, Zurich, Switzerland",
+      "name_cn": "\u745e\u58eb\u82cf\u9ece\u4e16\u8054\u90a6\u7406\u5de5\u5b66\u9662\u8ba1\u7b97\u673a\u89c6\u89c9\u5b9e\u9a8c\u5ba4"
+    },
+    {
+      "name": "School of Computer Science and Technology, Tianjin University, Tianjin, China",
+      "name_cn": "\u5929\u6d25\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\uff0c\u5929\u6d25"
+    },
+    {
+      "name": "Data61 CSIRO, Canberra, Australia",
+      "name_cn": "Data61 CSIRO\uff0c\u582a\u57f9\u62c9\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan",
+      "name_cn": "\u53f0\u6e7e\u53f0\u5317\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662"
+    },
+    {
+      "name": "CAS Center for Excellence in Brain Science and Intelligence Technology, National Laboratory of Pattern Recognition, Institute of Automation, CAS, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u667a\u80fd\u6280\u672f\u7814\u7a76\u4e2d\u5fc3\uff0c\u6a21\u5f0f\u8bc6\u522b\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Beijing Key Laboratory of Network System and Network Culture, Beijing University of Posts and Telecommunications, Beijing, China",
+      "name_cn": "\u5317\u4eac\u90ae\u7535\u5927\u5b66\u7f51\u7edc\u7cfb\u7edf\u4e0e\u7f51\u7edc\u6587\u5316\u5317\u4eac\u5e02\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Shenzhen Key Laboratory of Virtual Reality and Human Interaction Technology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China",
+      "name_cn": "\u6df1\u5733\u5e02\u4e2d\u56fd\u79d1\u5b66\u9662\u6df1\u5733\u5148\u8fdb\u6280\u672f\u7814\u7a76\u9662\u865a\u62df\u73b0\u5b9e\u4e0e\u4eba\u673a\u4ea4\u4e92\u6280\u672f\u6df1\u5733\u5e02\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u6df1\u5733"
+    },
+    {
+      "name": "Beijing Film Academy, Beijing, China",
+      "name_cn": "\u5317\u4eac\u7535\u5f71\u5b66\u9662\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Southern California, Los Angeles, United States",
+      "name_cn": "\u5357\u52a0\u5dde\u5927\u5b66\uff0c\u6d1b\u6749\u77f6\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Centre for Imaging Sciences, University of Manchester, Manchester; M13 9PT, United Kingdom",
+      "name_cn": "\u66fc\u5f7b\u65af\u7279\u5927\u5b66\u5f71\u50cf\u79d1\u5b66\u4e2d\u5fc3; M13 9PT\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "Baidu Research, Beijing, China",
+      "name_cn": "\u767e\u5ea6\u7814\u7a76\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Parthenope University of Naples, Naples, Italy",
+      "name_cn": "\u90a3\u4e0d\u52d2\u65afParthenope\u5927\u5b66\uff0c\u90a3\u4e0d\u52d2\u65af\uff0c\u610f\u5927\u5229"
+    },
+    {
+      "name": "NAVER Corp, Seongnam, Korea, Republic of",
+      "name_cn": "NAVER Corp\uff0c\u97e9\u56fd\u57ce\u5357\uff0c\u5171\u548c\u56fd"
+    },
+    {
+      "name": "National Key Laboratory of Science and Technology on Multispectral Information Processing, School of Automation, Huazhong University of Science and Technology, Wuhan, China",
+      "name_cn": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66\u81ea\u52a8\u5316\u5b66\u9662\uff0c\u591a\u5149\u8c31\u4fe1\u606f\u5904\u7406\u79d1\u5b66\u4e0e\u6280\u672f\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u6b66\u6c49"
+    },
+    {
+      "name": "Malong Technologies, Shenzhen, China",
+      "name_cn": "\u9a6c\u9f99\u79d1\u6280\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong, Sha Tin, Hong Kong",
+      "name_cn": "CUHK-SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\uff0c\u9999\u6e2f\u6c99\u7530"
+    },
+    {
+      "name": "SenseTime Group (Limited), Beijing, China",
+      "name_cn": "SenseTime Group\uff08Limited\uff09\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Baidu Research, Baidu Inc., Beijing, China",
+      "name_cn": "\u767e\u5ea6\u7814\u7a76\uff0c\u767e\u5ea6\u516c\u53f8\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Laboratory for MAchine Perception and LEarning, University of Central Florida, Orlando, United States",
+      "name_cn": "\u7f8e\u56fd\u5965\u5170\u591a\u4e2d\u4f5b\u7f57\u91cc\u8fbe\u5927\u5b66\u673a\u5668\u611f\u77e5\u548c\u5b66\u4e60\u5b9e\u9a8c\u5ba4"
+    },
+    {
+      "name": "Experian Data Lab, San Diego, United States",
+      "name_cn": "\u76ca\u767e\u5229\u6570\u636e\u5b9e\u9a8c\u5ba4\uff0c\u7f8e\u56fd\u5723\u5730\u4e9a\u54e5"
+    },
+    {
+      "name": "School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China",
+      "name_cn": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66\u7535\u5b50\u4fe1\u606f\u4e0e\u901a\u4fe1\u5b66\u9662\uff0c\u6b66\u6c49"
+    },
+    {
+      "name": "Beihang University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Key Lab of Intelligent Information Processing of Chinese Academy of Sciences, Institute of Computing Technology, CAS, Beijing; 100190, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u8ba1\u7b97\u6280\u672f\u7814\u7a76\u6240\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u667a\u80fd\u4fe1\u606f\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac; 100190\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China",
+      "name_cn": "\u4e2d\u5c71\u5927\u5b66\u6570\u636e\u4e0e\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662\uff0c\u5e7f\u5dde\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Shenzhen Key Lab of Computer Vision and Pattern Recognition, Shenzhen Institutes of Advanced Technology, CAS, Shenzhen, China",
+      "name_cn": "\u6df1\u5733\u5e02\u8ba1\u7b97\u673a\u89c6\u89c9\u4e0e\u6a21\u5f0f\u8bc6\u522b\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u6df1\u5733\u5148\u8fdb\u6280\u672f\u7814\u7a76\u9662\uff0c\u6df1\u5733"
+    },
+    {
+      "name": "ECE Department, National University of Singapore, Singapore, Singapore",
+      "name_cn": "\u65b0\u52a0\u5761\u56fd\u7acb\u5927\u5b66\uff0c\u65b0\u52a0\u5761\uff0c\u65b0\u52a0\u5761"
+    },
+    {
+      "name": "Monash University, Melbourne, Australia",
+      "name_cn": "\u8499\u7eb3\u58eb\u5927\u5b66\uff0c\u58a8\u5c14\u672c\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China",
+      "name_cn": "\u5317\u4eac\u90ae\u7535\u5927\u5b66\u4fe1\u606f\u4e0e\u901a\u4fe1\u5de5\u7a0b\u5b66\u9662\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Hikvision Research Institute, Hangzhou, China",
+      "name_cn": "\u6d77\u5eb7\u5a01\u89c6\u7814\u7a76\u9662\uff0c\u4e2d\u56fd\u676d\u5dde"
+    },
+    {
+      "name": "Department of Computer Science, Hong Kong Baptist University, Kowloon Tong, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u4e5d\u9f99\u5858\u9999\u6e2f\u6d78\u4f1a\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb"
+    },
+    {
+      "name": "School of EIC, Huazhong University of Science and Technology, Wuhan, China",
+      "name_cn": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66EIC\u5b66\u9662\uff0c\u6b66\u6c49\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "CAS Key Laboratory of Technology in Geo-Spatial Information Processing and Application Systems, University of Science and Technology of China, Hefei, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\u5730\u7403\u7a7a\u95f4\u4fe1\u606f\u5904\u7406\u4e0e\u5e94\u7528\u7cfb\u7edf\u6280\u672f\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5408\u80a5\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "College of Computer Science and Technology, Zhejiang University, Hangzhou, China",
+      "name_cn": "\u6d59\u6c5f\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\uff0c\u676d\u5dde"
+    },
+    {
+      "name": "Xingtai Financial Holdings Group Co., Ltd., Hefei; Anhui, China",
+      "name_cn": "\u5408\u80a5\u90a2\u53f0\u91d1\u878d\u63a7\u80a1\u96c6\u56e2\u6709\u9650\u516c\u53f8;\u4e2d\u56fd\u5b89\u5fbd"
+    },
+    {
+      "name": "Stanford University, Stanford; CA; 94305, United States",
+      "name_cn": "\u65af\u5766\u798f\u5927\u5b66\u65af\u5766\u798f\u5927\u5b66; CA; 94305\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "SketchX Lab, School of Electronic Engineering and Computer Science, Queen Mary University of London, London, United Kingdom",
+      "name_cn": "SketchX\u5b9e\u9a8c\u5ba4\uff0c\u82f1\u56fd\u4f26\u6566\u739b\u4e3d\u7687\u540e\u5b66\u9662\u7535\u5b50\u5de5\u7a0b\u4e0e\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662"
+    },
+    {
+      "name": "Naval Research Lab, Washington; DC, United States",
+      "name_cn": "\u534e\u76db\u987f\u6d77\u519b\u7814\u7a76\u5b9e\u9a8c\u5ba4; DC\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "PCA Lab, Key Lab of Intelligent Perception and Systems for High-Dimensional Information of Ministry of Education, and Jiangsu Key Lab of Image and Video Understanding for Social Security, School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China",
+      "name_cn": "\u5357\u4eac\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u9662PCA\u5b9e\u9a8c\u5ba4\uff0c\u6559\u80b2\u90e8\u9ad8\u7ef4\u4fe1\u606f\u667a\u80fd\u611f\u77e5\u4e0e\u7cfb\u7edf\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u6c5f\u82cf\u7701\u793e\u4f1a\u4fdd\u969c\u56fe\u50cf\u4e0e\u89c6\u9891\u7406\u89e3\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5357\u4eac"
+    },
+    {
+      "name": "Intel Labs China, Beijing, China",
+      "name_cn": "\u82f1\u7279\u5c14\u5b9e\u9a8c\u5ba4\u4e2d\u56fd\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "MIT CSAIL, Cambridge, United States",
+      "name_cn": "\u9ebb\u7701\u7406\u5de5\u5b66\u9662CSAIL\uff0c\u5251\u6865\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Fudan University, Shanghai, China",
+      "name_cn": "\u590d\u65e6\u5927\u5b66\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "Department of CSE, University of Texas at Arlington, Arlington, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u963f\u7075\u987f\u5206\u6821CSE\u7cfb\uff0c\u7f8e\u56fd\u963f\u7075\u987f"
+    },
+    {
+      "name": "School of Electronic and Information Engineering, South China University of Technology, Guangzhou, China",
+      "name_cn": "\u534e\u5357\u7406\u5de5\u5927\u5b66\u7535\u5b50\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662\uff0c\u5e7f\u5dde"
+    },
+    {
+      "name": "Data61/CSIRO, Canberra, Australia",
+      "name_cn": "Data61 / CSIRO\uff0c\u582a\u57f9\u62c9\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "ASRI, Seoul National University, Seoul, Korea, Republic of",
+      "name_cn": "\u9996\u5c14\u56fd\u7acb\u5927\u5b66ASRI\uff0c\u97e9\u56fd\u9996\u5c14\u5171\u548c\u56fd"
+    },
+    {
+      "name": "SCSE, Nanyang Technological University, Singapore, Singapore",
+      "name_cn": "SCSE\uff0c\u5357\u6d0b\u7406\u5de5\u5927\u5b66\uff0c\u65b0\u52a0\u5761\uff0c\u65b0\u52a0\u5761"
+    },
+    {
+      "name": "University of Dundee, Dundee, United Kingdom",
+      "name_cn": "\u9093\u8fea\u5927\u5b66\uff0c\u9093\u8fea\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "University of California, Davis, Davis, United States",
+      "name_cn": "\u52a0\u5dde\u5927\u5b66\u6234\u7ef4\u65af\u5206\u6821\uff0c\u6234\u7ef4\u65af\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Data61/CSIRO, Eveleigh, Australia",
+      "name_cn": "Data61 / CSIRO\uff0cEveleigh\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "School of Electrical and Data Engineering, University of Technology Sydney, Sydney, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u6089\u5c3c\u6089\u5c3c\u79d1\u6280\u5927\u5b66\u7535\u6c14\u4e0e\u6570\u636e\u5de5\u7a0b\u5b66\u9662"
+    },
+    {
+      "name": "Link\u00f6ping University, Link\u00f6ping, Sweden",
+      "name_cn": "\u6797\u96ea\u5e73\u5927\u5b66\uff0c\u745e\u5178\u6797\u96ea\u5e73"
+    },
+    {
+      "name": "Computer Vision Laboratory, ETH Zurich, Z\u00fcrich, Switzerland",
+      "name_cn": "\u745e\u58eb\u82cf\u9ece\u4e16\u8054\u90a6\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u89c6\u89c9\u5b9e\u9a8c\u5ba4"
+    },
+    {
+      "name": "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\uff0c\u53f0\u6e7e\u65b0\u7af9"
+    },
+    {
+      "name": "Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u4fe1\u606f\u6280\u672f\u521b\u65b0\u7814\u7a76\u4e2d\u5fc3\uff0c\u53f0\u6e7e\u53f0\u5317"
+    },
+    {
+      "name": "ITC-EOS, University of Twente, Enschede, Netherlands",
+      "name_cn": "ITC-EOS\uff0c\u8377\u5170\u6069\u65af\u8d6b\u5fb7\u7279\u6587\u7279\u5927\u5b66"
+    },
+    {
+      "name": "University of Maryland, College Park, United States",
+      "name_cn": "\u9a6c\u91cc\u5170\u5927\u5b66\uff0c\u7f8e\u56fd\u5b66\u9662\u516c\u56ed"
+    },
+    {
+      "name": "State Key Lab for Novel Software Technology, Nanjing University, Nanjing, China",
+      "name_cn": "\u5357\u4eac\u5927\u5b66\u65b0\u578b\u8f6f\u4ef6\u6280\u672f\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5357\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Graz University of Technology, Graz, Austria",
+      "name_cn": "\u683c\u62c9\u8328\u79d1\u6280\u5927\u5b66\uff0c\u5965\u5730\u5229\u683c\u62c9\u8328"
+    },
+    {
+      "name": "Binghamton University, Binghamton, United States",
+      "name_cn": "\u5bbe\u5384\u59c6\u987f\u5927\u5b66\uff0c\u5bbe\u5384\u59c6\u987f\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, Shenzhen, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u6df1\u5733\u7814\u7a76\u9662\uff0c\u6e05\u534e\u5927\u5b66\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u6df1\u5733\u7814\u7a76\u9662\uff0c\u6e05\u534e\u5927\u5b66\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Australian Centre for Robotic Vision, Canberra, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u582a\u57f9\u62c9\u6fb3\u5927\u5229\u4e9a\u673a\u5668\u4eba\u89c6\u89c9\u4e2d\u5fc3"
+    },
+    {
+      "name": "Guangdong Key Lab of Computer Vision and Virtual Reality, SIAT-SenseTime Joint Lab, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China",
+      "name_cn": "\u5e7f\u4e1c\u7701\u8ba1\u7b97\u673a\u89c6\u89c9\u4e0e\u865a\u62df\u73b0\u5b9e\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0cSIAT-SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u6df1\u5733\u5148\u8fdb\u6280\u672f\u7814\u7a76\u9662\uff0c\u6df1\u5733"
+    },
+    {
+      "name": "Nanyang Technological University, Singapore, Singapore",
+      "name_cn": "\u5357\u6d0b\u7406\u5de5\u5927\u5b66\uff0c\u65b0\u52a0\u5761\uff0c\u65b0\u52a0\u5761"
+    },
+    {
+      "name": "Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany",
+      "name_cn": "\u5fb7\u56fd\u8482\u5bbe\u6839\u9a6c\u514b\u65af\u666e\u6717\u514b\u667a\u80fd\u7cfb\u7edf\u7814\u7a76\u6240"
+    },
+    {
+      "name": "State Key Laboratory LIESMARS, Wuhan University, Wuhan, China",
+      "name_cn": "\u6b66\u6c49\u5927\u5b66\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u6b66\u6c49\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "NAVER Corporation, Seongnam, Korea, Republic of",
+      "name_cn": "NAVER Corporation\uff0cSeongnam\uff0cKorea\uff0cRepublic of"
+    },
+    {
+      "name": "IBM T. J. Watson, Yorktown Heights, United States",
+      "name_cn": "IBM T. J. Watson\uff0cYorktown Heights\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Center for Excellence in Brain Science and Intelligence Technology, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u5317\u4eac\u8111\u79d1\u5b66\u4e0e\u667a\u80fd\u6280\u672f\u5353\u8d8a\u4e2d\u5fc3"
+    },
+    {
+      "name": "Bytedance Inc., Beijing, China",
+      "name_cn": "Bytedance Inc.\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "UBTECH Sydney AI Center, SIT, FEIT, University of Sydney, Sydney, Australia",
+      "name_cn": "UBTECH\u6089\u5c3cAI\u4e2d\u5fc3\uff0cSIT\uff0cFEIT\uff0c\u6089\u5c3c\u5927\u5b66\uff0c\u6089\u5c3c\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "Guilin University of Electronic Technology, Guilin, China",
+      "name_cn": "\u6842\u6797\u7535\u5b50\u79d1\u6280\u5927\u5b66\uff0c\u6842\u6797\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of T\u00fcbingen, T\u00fcbingen, Germany",
+      "name_cn": "\u5fb7\u56fd\u8482\u5bbe\u6839\u8482\u5bbe\u6839\u5927\u5b66"
+    },
+    {
+      "name": "Indian Institute of Space Science and Technology, Thiruvananthapuram, India",
+      "name_cn": "\u5370\u5ea6\u8482\u9c81\u6587\u5357\u7279\u5e03\u52d2\u59c6\u5370\u5ea6\u7a7a\u95f4\u79d1\u5b66\u4e0e\u6280\u672f\u7814\u7a76\u6240"
+    },
+    {
+      "name": "Meitu, Mainland China, China",
+      "name_cn": "\u7f8e\u56fe\uff0c\u4e2d\u56fd\u5927\u9646\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Southern California, Los Angeles; CA, United States",
+      "name_cn": "\u5357\u52a0\u5dde\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821; CA\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Information Science, School of Mathematical Sciences and LMAM, Peking University, Beijing; 100871, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66\u6570\u5b66\u79d1\u5b66\u4e0e\u4fe1\u606f\u79d1\u5b66\u5b66\u9662\u4fe1\u606f\u79d1\u5b66\u7cfb\uff0c\u5317\u4eac; 100871\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Massachusetts Institute of Technology, Cambridge, United States",
+      "name_cn": "\u9ebb\u7701\u7406\u5de5\u5b66\u9662\uff0c\u7f8e\u56fd\u5251\u6865"
+    },
+    {
+      "name": "Beijing Lab of Intelligent Information Technology, School of Computer Science, Beijing Institute of Technology, Beijing, China",
+      "name_cn": "\u5317\u4eac\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u5b66\u9662\u5317\u4eac\u667a\u80fd\u4fe1\u606f\u6280\u672f\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "Heidelberg University, Heidelberg, Germany",
+      "name_cn": "\u6d77\u5fb7\u5821\u5927\u5b66\uff0c\u5fb7\u56fd\u6d77\u5fb7\u5821"
+    },
+    {
+      "name": "Beijing Advanced Innovation Center for Big Data and Brain Computing, Beihang University, Beijing; 100191, China",
+      "name_cn": "\u5317\u4eac\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66\u5317\u4eac\u5927\u6570\u636e\u4e0e\u8111\u8ba1\u7b97\u9ad8\u7ea7\u521b\u65b0\u4e2d\u5fc3; 100191\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\u8111\u79d1\u5b66\u4e0e\u667a\u80fd\u6280\u672f\u5353\u8d8a\u4e2d\u5fc3\uff08CEBSIT\uff09\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "The University of Texas at Austin, Austin; TX; 78712, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u5965\u65af\u6c40\u5206\u6821; TX; 78712\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Department of Computer Science, Stanford University, Stanford, United States",
+      "name_cn": "\u65af\u5766\u798f\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\uff0c\u65af\u5766\u798f\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China",
+      "name_cn": "\u5357\u4eac\u7406\u5de5\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u9662\uff0c\u5357\u4eac"
+    },
+    {
+      "name": "Tencent AI Lab, Bellevue, United States",
+      "name_cn": "\u817e\u8bafAI\u5b9e\u9a8c\u5ba4\uff0c\u8d1d\u5c14\u7ef4\u5c24\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Computer School, Wuhan University, Hubei, China",
+      "name_cn": "\u6b66\u6c49\u5927\u5b66\u8ba1\u7b97\u673a\u5b66\u9662\uff0c\u6e56\u5317\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing; 100190, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u8ba1\u7b97\u6280\u672f\u7814\u7a76\u6240\u4e2d\u56fd\u79d1\u5b66\u9662\u667a\u80fd\u4fe1\u606f\u5904\u7406\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u5317\u4eac; 100190\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Arizona State University, Tempe, United States",
+      "name_cn": "\u4e9a\u5229\u6851\u90a3\u5dde\u7acb\u5927\u5b66\uff0c\u5766\u4f69\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "University of Illinois at Urbana-Champaign, Urbana, United States",
+      "name_cn": "\u4f0a\u5229\u8bfa\u4f0a\u5927\u5b66\u5384\u5df4\u7eb3 - \u9999\u69df\u5206\u6821\uff0c\u7f8e\u56fd\u5384\u5df4\u7eb3"
+    },
+    {
+      "name": "Pattern Recognition and Intelligent System Laboratory, Beijing University of Posts and Telecommunications, Beijing, China",
+      "name_cn": "\u5317\u4eac\u90ae\u7535\u5927\u5b66\u6a21\u5f0f\u8bc6\u522b\u4e0e\u667a\u80fd\u7cfb\u7edf\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Key Laboratory of Machine Perception, MOE, School of EECS, Peking University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66\u6b27\u6d32\u7ecf\u6d4e\u5171\u540c\u4f53\u5b66\u9662\u673a\u5668\u611f\u77e5\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Czech Technical University, Prague, Czech Republic",
+      "name_cn": "\u6377\u514b\u6280\u672f\u5927\u5b66\uff0c\u5e03\u62c9\u683c\uff0c\u6377\u514b\u5171\u548c\u56fd"
+    },
+    {
+      "name": "School of Information Systems, Singapore Management Univeristy, Singapore, Singapore",
+      "name_cn": "\u65b0\u52a0\u5761\u7ba1\u7406\u5927\u5b66\u4fe1\u606f\u7cfb\u7edf\u5b66\u9662\uff0c\u65b0\u52a0\u5761\uff0c\u65b0\u52a0\u5761"
+    },
+    {
+      "name": "Center for Biometrics and Security Research, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\u751f\u7269\u7edf\u8ba1\u4e0e\u5b89\u5168\u7814\u7a76\u4e2d\u5fc3\uff0c\u6a21\u5f0f\u8bc6\u522b\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "Tongji University, Shanghai, China",
+      "name_cn": "\u540c\u6d4e\u5927\u5b66\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "Guangdong Provincial Key Lab of Computational Intelligence and Cyberspace Information, South China University of Technology, Guangzhou, China",
+      "name_cn": "\u534e\u5357\u7406\u5de5\u5927\u5b66\u5e7f\u4e1c\u7701\u8ba1\u7b97\u667a\u80fd\u4e0e\u7f51\u7edc\u7a7a\u95f4\u4fe1\u606f\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5e7f\u5dde"
+    },
+    {
+      "name": "Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u57ce\u5e02\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb\uff0c\u9999\u6e2f\u4e5d\u9f99"
+    },
+    {
+      "name": "Department of Computer Science, University of Maryland, College Park, United States",
+      "name_cn": "\u7f8e\u56fd\u9a6c\u91cc\u5170\u5927\u5b66\u5e15\u514b\u5206\u6821\u8ba1\u7b97\u673a\u79d1\u5b66\u7cfb"
+    },
+    {
+      "name": "Australian National University, Canberra, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u582a\u57f9\u62c9\u6fb3\u5927\u5229\u4e9a\u56fd\u7acb\u5927\u5b66"
+    },
+    {
+      "name": "Key Laboratory of Machine Perception, Peking University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66\u673a\u5668\u611f\u77e5\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5317\u4eac"
+    },
+    {
+      "name": "CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong, Hong Kong",
+      "name_cn": "CUHK-SenseTime\u8054\u5408\u5b9e\u9a8c\u5ba4\uff0c\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\uff0c\u9999\u6e2f"
+    },
+    {
+      "name": "Taiwan Tech, Taipei, Taiwan",
+      "name_cn": "\u53f0\u6e7e\u6280\u672f\uff0c\u53f0\u5317\uff0c\u53f0\u6e7e"
+    },
+    {
+      "name": "Centre for Artificial Intelligence, University of Technology Sydney, Ultimo, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9aUltimo\u6089\u5c3c\u79d1\u6280\u5927\u5b66\u4eba\u5de5\u667a\u80fd\u4e2d\u5fc3"
+    },
+    {
+      "name": "ARC Centre of Excellence for Robotic Vision, Brisbane, Australia",
+      "name_cn": "ARC\u673a\u5668\u4eba\u89c6\u89c9\u5353\u8d8a\u4e2d\u5fc3\uff0c\u6fb3\u5927\u5229\u4e9a\u5e03\u91cc\u65af\u73ed"
+    },
+    {
+      "name": "Microsoft Cloud and AI, Redmond, United States",
+      "name_cn": "Microsoft Cloud\u548cAI\uff0cRedmond\uff0cUnited States"
+    },
+    {
+      "name": "School of Computer Science and Information Engineering, Jiangxi Normal University, Nanchang, China",
+      "name_cn": "\u6c5f\u897f\u5e08\u8303\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662\uff0c\u5357\u660c"
+    },
+    {
+      "name": "School of Science and Technology, Shanghai Open University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u5f00\u653e\u5927\u5b66\u79d1\u6280\u5b66\u9662\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "SenseTime Research Institute, Beijing, China",
+      "name_cn": "SenseTime\u7814\u7a76\u6240\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Software Department, Xiamen University, Xiamen, China",
+      "name_cn": "\u53a6\u95e8\u5927\u5b66\u8f6f\u4ef6\u7cfb\uff0c\u53a6\u95e8"
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, Beijing; 100190, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5927\u5b66\uff0c\u5317\u4eac; 100190\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of Electronic Science and Technology of China, Chengdu; 611731, China",
+      "name_cn": "\u4e2d\u56fd\u7535\u5b50\u79d1\u6280\u5927\u5b66\uff0c\u6210\u90fd; 611731\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Vision Semantics Limited, London, United Kingdom",
+      "name_cn": "Vision Semantics Limited\uff0c\u82f1\u56fd\u4f26\u6566"
+    },
+    {
+      "name": "University of Texas at Arlington, Arlington, United States",
+      "name_cn": "\u5fb7\u514b\u8428\u65af\u5927\u5b66\u963f\u7075\u987f\u5206\u6821\uff0c\u963f\u7075\u987f\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "National University of Defense Technology, Changsha, China",
+      "name_cn": "\u56fd\u9632\u79d1\u6280\u5927\u5b66\uff0c\u957f\u6c99\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Shanghai University, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u5927\u5b66\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "University of Iowa, Iowa City; IA, United States",
+      "name_cn": "\u7231\u8377\u534e\u5dde\u7231\u8377\u534e\u5927\u5b66; IA\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Northwestern University, Evanston, United States",
+      "name_cn": "\u897f\u5317\u5927\u5b66\uff0c\u7f8e\u56fd\u57c3\u6587\u65af\u987f"
+    },
+    {
+      "name": "Peking University, Beijing, China",
+      "name_cn": "\u5317\u4eac\u5927\u5b66\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University of New South Wales, Kensington, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u80af\u8f9b\u987f\u65b0\u5357\u5a01\u5c14\u58eb\u5927\u5b66"
+    },
+    {
+      "name": "Fraunhofer IOSB, Karlsruhe, Germany",
+      "name_cn": "Fraunhofer IOSB\uff0c\u5fb7\u56fd\u5361\u5c14\u65af\u9c81\u5384"
+    },
+    {
+      "name": "CAI, University of Technology Sydney, Sydney, Australia",
+      "name_cn": "CAI\uff0c\u6089\u5c3c\u79d1\u6280\u5927\u5b66\uff0c\u6089\u5c3c\uff0c\u6fb3\u5927\u5229\u4e9a"
+    },
+    {
+      "name": "School of Computer Science and Technology, University of Science and Technology of China, Hefei, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\uff0c\u5408\u80a5\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "NLPR, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+      "name_cn": "NLPR\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u81ea\u52a8\u5316\u7814\u7a76\u6240\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Shenzhen Malong Artificial Intelligence Research Center, Shenzhen, China",
+      "name_cn": "\u6df1\u5733\u9a6c\u9f99\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u4e2d\u5fc3\uff0c\u6df1\u5733\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Google, Menlo Park, United States",
+      "name_cn": "\u8c37\u6b4c\uff0c\u95e8\u6d1b\u5e15\u514b\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Nanjing University, Nanjing, China",
+      "name_cn": "\u5357\u4eac\u5927\u5b66\uff0c\u4e2d\u56fd\u5357\u4eac"
+    },
+    {
+      "name": "University of Chinese Academy of Science, Beijing; 100049, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5927\u5b66\uff0c\u5317\u4eac; 100049\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Harbin Institute of Technology, Harbin; 150001, China",
+      "name_cn": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66\u54c8\u5c14\u6ee8; 150001\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Australian Insititute for Machine Learning, The University of Adelaide, Adelaide, Australia",
+      "name_cn": "\u6fb3\u5927\u5229\u4e9a\u963f\u5fb7\u83b1\u5fb7\u963f\u5fb7\u83b1\u5fb7\u5927\u5b66\u673a\u5668\u5b66\u4e60\u7814\u7a76\u6240"
+    },
+    {
+      "name": "Sensetime Group Limited, Beijing; 100084, China",
+      "name_cn": "\u5317\u4eacSensetime\u96c6\u56e2\u6709\u9650\u516c\u53f8; 100084\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "SJTU-UCLA Joint Center for Machine Perception and Inference, Shanghai, China",
+      "name_cn": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66 - \u52a0\u5dde\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821\u673a\u5668\u611f\u77e5\u548c\u63a8\u7406\u8054\u5408\u4e2d\u5fc3\uff0c\u4e2d\u56fd\u4e0a\u6d77"
+    },
+    {
+      "name": "CAS Center for Excellence in Brain Science and Intelligence Technology, Beijing, China",
+      "name_cn": "CAS\u4e2d\u56fd\u5317\u4eac\u8111\u79d1\u5b66\u4e0e\u667a\u80fd\u6280\u672f\u5353\u8d8a\u4e2d\u5fc3"
+    },
+    {
+      "name": "ASRI, Seoul, Korea, Republic of",
+      "name_cn": "ASRI\uff0c\u9996\u5c14\uff0c\u97e9\u56fd\uff0c\u5171\u548c\u56fd"
+    },
+    {
+      "name": "School of Informatics, University of Edinburgh, Edinburgh, United Kingdom",
+      "name_cn": "\u7231\u4e01\u5821\u5927\u5b66\u4fe1\u606f\u5b66\u9662\uff0c\u7231\u4e01\u5821\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "Key Laboratory of Machine Intelligence and Advanced Computing, MOE, Guangzhou, China",
+      "name_cn": "\u6559\u80b2\u90e8\u673a\u68b0\u667a\u80fd\u4e0e\u5148\u8fdb\u8ba1\u7b97\u91cd\u70b9\u5b9e\u9a8c\u5ba4\uff0c\u5e7f\u5dde"
+    },
+    {
+      "name": "Ocean University of China, Qingdao; 266100, China",
+      "name_cn": "\u4e2d\u56fd\u6d77\u6d0b\u5927\u5b66\uff0c\u9752\u5c9b; 266100\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Bytedance AI Lab, Beijing, China",
+      "name_cn": "Bytedance AI Lab\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "University at Albany, SUNY, Albany, United States",
+      "name_cn": "\u5965\u5c14\u5df4\u5c3c\u5927\u5b66\uff0c\u7ebd\u7ea6\u5dde\u7acb\u5927\u5b66\uff0c\u5965\u5c14\u5df4\u5c3c\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "Basic Research Group, Security Platform Department, Tencent, Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u5317\u4eac\u817e\u8baf\u5b89\u9632\u5e73\u53f0\u90e8\u57fa\u7840\u7814\u7a76\u7ec4"
+    },
+    {
+      "name": "Huawei Noah\u2019s Ark Lab, University of Texas at San Antonio, San Antonio, United States",
+      "name_cn": "\u534e\u4e3a\u8bfa\u4e9a\u65b9\u821f\u5b9e\u9a8c\u5ba4\uff0c\u5fb7\u514b\u8428\u65af\u5927\u5b66\u5723\u5b89\u4e1c\u5c3c\u5965\u5206\u6821\uff0c\u7f8e\u56fd\u5723\u5b89\u4e1c\u5c3c\u5965"
+    },
+    {
+      "name": "Xi\u2019an Jiaotong University, Xi\u2019an; Shaanxi, China",
+      "name_cn": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\uff0c\u897f\u5b89;\u4e2d\u56fd\u9655\u897f"
+    },
+    {
+      "name": "School of Information Technologies, University of Sydney, Sydney, Australia",
+      "name_cn": "\u6089\u5c3c\u5927\u5b66\u4fe1\u606f\u6280\u672f\u5b66\u9662\uff0c\u6fb3\u5927\u5229\u4e9a\u6089\u5c3c"
+    },
+    {
+      "name": "The Chinese University of Hong Kong, Shatin, Hong Kong",
+      "name_cn": "\u9999\u6e2f\u6c99\u7530\u4e2d\u6587\u5927\u5b66"
+    },
+    {
+      "name": "ITCS, Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, China",
+      "name_cn": "ITCS\uff0c\u6e05\u534e\u5927\u5b66\u8de8\u5b66\u79d1\u4fe1\u606f\u79d1\u5b66\u7814\u7a76\u6240\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "Google Inc., Mountain View; CA, United States",
+      "name_cn": "Google Inc.\uff0cMountain View; CA\uff0c\u7f8e\u56fd"
+    },
+    {
+      "name": "DeepGlint, Beijing; 100091, China",
+      "name_cn": "DeepGlint\uff0c\u5317\u4eac; 100091\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Computer Science and Technology, Anhui Univeristy, Hefei, China",
+      "name_cn": "\u5b89\u5fbd\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662\uff0c\u5408\u80a5\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Huawei Noah\u2019s Ark Lab, Shenzhen, China",
+      "name_cn": "\u534e\u4e3a\u8bfa\u4e9a\u65b9\u821f\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u6df1\u5733"
+    },
+    {
+      "name": "CloudWalk Technology, Guangzhou, China",
+      "name_cn": "CloudWalk Technology\uff0c\u4e2d\u56fd\u5e7f\u5dde"
+    },
+    {
+      "name": "Institute of Software, Chinese Academy of Sciences (CAS), Beijing, China",
+      "name_cn": "\u4e2d\u56fd\u79d1\u5b66\u9662\u8f6f\u4ef6\u7814\u7a76\u6240\uff0c\u4e2d\u56fd\u5317\u4eac"
+    },
+    {
+      "name": "CSIRO DATA61, Canberra; ACT; 2601, Australia",
+      "name_cn": "CSIRO DATA61\uff0c\u582a\u57f9\u62c9;\u6cd5\u6848;\u6fb3\u5927\u5229\u4e9a2601"
+    },
+    {
+      "name": "ARC Centre of Excellence for Robotic Vision, Canberra, Australia",
+      "name_cn": "ARC\u673a\u5668\u4eba\u89c6\u89c9\u5353\u8d8a\u4e2d\u5fc3\uff0c\u6fb3\u5927\u5229\u4e9a\u582a\u57f9\u62c9"
+    },
+    {
+      "name": "Tsinghua University, Beijing; 100084, China",
+      "name_cn": "\u5317\u4eac\u6e05\u534e\u5927\u5b66; 100084\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "Department of Biomedical Engineering, Tsinghua University, Beijing, China",
+      "name_cn": "\u6e05\u534e\u5927\u5b66\u751f\u7269\u533b\u5b66\u5de5\u7a0b\u7cfb\uff0c\u5317\u4eac\uff0c\u4e2d\u56fd"
+    },
+    {
+      "name": "School of Data Science, Fudan University, Shanghai, China",
+      "name_cn": "\u590d\u65e6\u5927\u5b66\u6570\u636e\u79d1\u5b66\u5b66\u9662\uff0c\u4e0a\u6d77"
+    },
+    {
+      "name": "University of Surrey, Guildford, United Kingdom",
+      "name_cn": "\u8428\u91cc\u5927\u5b66\uff0c\u5409\u5c14\u798f\u5fb7\uff0c\u82f1\u56fd"
+    },
+    {
+      "name": "Tencent YouTu Lab, Shenzhen, China",
+      "name_cn": "\u817e\u8bafYouTu\u5b9e\u9a8c\u5ba4\uff0c\u4e2d\u56fd\u6df1\u5733"
+    },
+    {
+      "name": "Google Inc., Menlo Park, United States",
+      "name_cn": "\u8c37\u6b4c\u516c\u53f8\uff0c\u7f8e\u56fd\u95e8\u6d1b\u5e15\u514b"
+    }
+  ]
+}
