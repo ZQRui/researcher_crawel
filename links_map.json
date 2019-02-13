@@ -9567,5 +9567,16 @@
     "link": "http://openaccess.thecvf.com/content_ECCV_2018/papers/Alexander_Vakhitov_Stereo_relative_pose_ECCV_2018_paper.pdf",
     "conf": "ECCV2018",
     "file_name": "Alexander_Vakhitov_Stereo_relative_pose_ECCV_2018_paper.pdf"
+  },
+  "summarizingfirstpersonvideosfromthirdpersonspointsofviews": {
+    "title": "Summarizing First-Person Videos from Third Persons' Points of Views",
+    "authors": [
+      "HSUAN-I HO",
+      "Wei-Chen Chiu",
+      "Yu-Chiang Frank Wang"
+    ],
+    "link": "http://openaccess.thecvf.com/content_ECCV_2018/papers/HSUAN-I_HO_Summarizing_First-Person_Videos_ECCV_2018_paper.pdf",
+    "file_name": "HSUAN-I_HO_Summarizing_First-Person_Videos_ECCV_2018_paper.pdf",
+    "conf": "ECCV2018"
   }
 }
